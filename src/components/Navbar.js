@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <h2>Kurt's Musings</h2>
           </Link>
           {/* Hamburger menu */}
           <button
@@ -39,11 +39,6 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/products">
-              Products
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/blog">
               Blog
             </Link>
@@ -51,11 +46,6 @@ const Navbar = () => {
             <li className="navbar-item" style={{padding: "0px"}}>
             <Link className="navbar-item" to="/contact">
               Contact
-            </Link>
-            </li>
-            <li className="navbar-item" style={{padding: "0px"}}>
-            <Link className="navbar-item" to="/contact/examples">
-              Form Examples
             </Link>
             </li>
           <li className="navbar-end has-text-centered">
