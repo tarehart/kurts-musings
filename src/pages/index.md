@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Kurt's Musings
-image: /img/home-jumbotron.jpg
+image: /img/DSC07131 Paula.jpg
 heading: Great coffee with a conscience
 subheading: Writings and recordings from Kurt Arehart
 mainpitch:
