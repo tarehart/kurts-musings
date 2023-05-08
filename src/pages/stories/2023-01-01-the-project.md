@@ -3,8 +3,8 @@ templateKey: story-post
 title: The Project
 date: 2023-01-01T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
 description: A disquieting role reversal. 4 Pages.
+featuredimage: /img/_DSC0162-The Project.jpg
 ---
 ​The beige wall phone with its coiled fifteen foot cord rang repeatedly and my mother quickly dried her hands,
 stepped from the kitchen to the tiny hallway and answered it.  “Oh yes, Kurt is here.” And she motioned me to come. 
