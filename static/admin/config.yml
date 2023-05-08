@@ -30,8 +30,8 @@ collections:
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Number of Pages", name: "numPages", widget: number }
       - { label: "Featured Image", name: "featuredimage", widget: image }
-      - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Document", name: "document", widget: file }
+      - { label: "Body (if you don't have a document)", name: "body", widget: "markdown", required: false }
   - name: "stories"
     label: "Short Stories"
     folder: "src/pages/stories"
