@@ -38,24 +38,37 @@ const EssayRollTemplate = (props) => {
                 <p className="post-meta">
                   <Link
                     className="title has-text-primary is-size-4"
-                    to={post.fields.slug}
-                  >
+                    to={post.excerpt ? post.fields.slug : post.frontmatter.document.publicURL}
+                    >
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
+                  <span></span>
                   <span className="subtitle is-size-5 is-block">
                     {post.frontmatter.date}
                   </span>
+                  <p>
+                    {post.frontmatter.description}
+                    {' '}
+                    {post.frontmatter.numPages} pages.
+                  </p>
+                  { !post.excerpt && (
+                    <Link className="button" to={post.frontmatter.document.publicURL}>
+                      Read Document →
+                    </Link>
+                  )}
                 </p>
               </header>
-              <p>
-                {post.excerpt}
-                <br />
-                <br />
-                <Link className="button" to={post.fields.slug}>
-                  Keep Reading →
-                </Link>
-              </p>
+              { post.excerpt && (
+                <p>
+                  {post.excerpt}
+                  <br />
+                  <br />
+                  <Link className="button" to={post.fields.slug}>
+                    Keep Reading →
+                  </Link>
+                </p>
+                )
+              }
             </article>
           </div>
         ))}
@@ -93,6 +106,12 @@ export default function EssayRoll() {
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost
+                  description
+                  numPages
+                  document {
+                    publicURL
+                    relativePath
+                  }
                   featuredimage {
                     childImageSharp {
                       gatsbyImageData(

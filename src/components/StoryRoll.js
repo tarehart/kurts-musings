@@ -42,9 +42,14 @@ const StoryRollTemplate = (props) => {
                   >
                     {post.frontmatter.title}
                   </Link>
-                  <span> &bull; </span>
+                  <span></span>
                   <span className="subtitle is-size-5 is-block">
                     {post.frontmatter.date}
+                  </span>
+                  <span>
+                    {post.frontmatter.description}
+                    {' '}
+                    {post.frontmatter.numPages} pages.
                   </span>
                 </p>
               </header>
@@ -83,13 +88,15 @@ export default function StoryRoll() {
           ) {
             edges {
               node {
-                excerpt(pruneLength: 400)
+                excerpt(pruneLength: 250)
                 id
                 fields {
                   slug
                 }
                 frontmatter {
                   title
+                  description
+                  numPages
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost

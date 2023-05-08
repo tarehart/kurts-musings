@@ -3,7 +3,8 @@ templateKey: story-post
 title: The Project
 date: 2023-01-01T15:04:10.000Z
 featuredpost: false
-description: A disquieting role reversal. 4 Pages.
+description: A disquieting role reversal.
+numPages: 4
 featuredimage: /img/_DSC0162-The Project.jpg
 ---
 ​The beige wall phone with its coiled fifteen foot cord rang repeatedly and my mother quickly dried her hands,
