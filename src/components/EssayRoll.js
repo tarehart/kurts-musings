@@ -52,8 +52,13 @@ const EssayRollTemplate = (props) => {
                     {post.frontmatter.numPages} pages.
                   </p>
                   { !post.excerpt && (
-                    <Link className="button" to={post.frontmatter.document.publicURL}>
+                    <Link className="button" style={{ marginRight: '0.75rem' }} to={post.frontmatter.document.publicURL}>
                       Read Document →
+                    </Link>
+                  )}
+                  { post.frontmatter.audio && (
+                    <Link className="button" to={post.frontmatter.audio.publicURL}>
+                      Listen 🎧
                     </Link>
                   )}
                 </p>
@@ -110,7 +115,9 @@ export default function EssayRoll() {
                   numPages
                   document {
                     publicURL
-                    relativePath
+                  }
+                  audio {
+                    publicURL
                   }
                   featuredimage {
                     childImageSharp {
