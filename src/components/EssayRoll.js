@@ -5,7 +5,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 
 const EssayRollTemplate = (props) => {
-  
+
   const { edges: posts } = props.data.allMarkdownRemark;
 
   return (
@@ -57,7 +57,7 @@ const EssayRollTemplate = (props) => {
                     </Link>
                   )}
                   { post.frontmatter.audio && (
-                    <Link className="button" to={post.frontmatter.audio.publicURL}>
+                    <Link className="button" to={post.frontmatter.audio.publicURL} download={post.frontmatter.audio.base}>
                       Listen 🎧
                     </Link>
                   )}
@@ -118,6 +118,7 @@ export default function EssayRoll() {
                   }
                   audio {
                     publicURL
+                    base
                   }
                   featuredimage {
                     childImageSharp {
