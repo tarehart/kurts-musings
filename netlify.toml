@@ -6,4 +6,7 @@
   YARN_VERSION = "1.22.4"
   YARN_FLAGS = "--no-ignore-optional"
 
-
+[[headers]]
+  for = "/*.mp3"
+  [headers.values]
+    Content-Disposition = "attachment"
