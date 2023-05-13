@@ -1,16 +1,38 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import {StoryPostTemplate } from '../../templates/story-post'
+import { StoryPostTemplate } from '../../templates/story-post'
+import RollCard from '../../components/RollCard'
 
 const StoryPostPreview = ({ entry, widgetFor }) => {
-  const tags = entry.getIn(['data', 'tags'])
+  const tags = entry.getIn(['data', 'tags'])  
+  const hasBody = !!entry.getIn(['data', 'body']);
+  const data = entry.getIn(['data']).toJS()
   return (
-    <StoryPostTemplate
-      content={widgetFor('body')}
-      description={entry.getIn(['data', 'description'])}
-      tags={tags && tags.toJS()}
-      title={entry.getIn(['data', 'title'])}
-    />
+    <div>
+      <RollCard
+        image={data.featuredimage} 
+        title={data.title} 
+        description={data.description}
+        numPages={data.numPages}
+        date={data.data}
+        document={data.document}
+        audio={data.audio}
+        excerpt={data.body?.substring(0, 400)}
+      />
+
+      {hasBody && (
+        <>
+          <hr />
+          <StoryPostTemplate
+            content={widgetFor('body')}
+            description={entry.getIn(['data', 'description'])}
+            tags={tags && tags.toJS()}
+            title={entry.getIn(['data', 'title'])}
+          />
+        </>
+      )}
+      
+    </div>
   )
 }
 

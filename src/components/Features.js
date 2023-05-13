@@ -1,6 +1,5 @@
 import * as React from "react";
 import PropTypes from "prop-types";
-import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
 import { getImage } from "gatsby-plugin-image";
 import { Link } from "gatsby";
 import FullWidthImage from "./FullWidthImage";
