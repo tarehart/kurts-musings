@@ -4,6 +4,11 @@ import { IndexPageTemplate } from '../../templates/index-page'
 
 const IndexPagePreview = ({ entry, getAsset }) => {
   const data = entry.getIn(['data']).toJS()
+  const sections = data.sections.map((s) => ({
+    text: s.text,
+    page: s.page,
+    image: getAsset(s.image),
+  }));
 
   if (data) {
     return (
@@ -11,7 +16,7 @@ const IndexPagePreview = ({ entry, getAsset }) => {
         image={getAsset(data.image)}
         title={data.title}
         heading={data.heading}
-        sections={data.sections}
+        sections={sections}
         subheading={data.subheading}
       />
     )

@@ -17,7 +17,7 @@ export const IndexPageTemplate = ({
 }) => {
   const heroImage = getImage(image) || image;
 
-  console.log(sections);
+  console.log("heroimage", heroImage);
 
   return (
     <div>
