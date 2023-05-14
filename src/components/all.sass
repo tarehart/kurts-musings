@@ -1,3 +1,4 @@
+
 @import "~bulma/sass/utilities/initial-variables"
 
 // Config vars
@@ -10,6 +11,8 @@ $primary: $kaldi-red
 $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
+
+@import "../../node_modules/bulma/bulma.sass"
 
 .site-title
   background-color: $kurt-yellow
@@ -98,6 +101,8 @@ $menu-list-border-left: 1px solid $kaldi-red-invert
 $menu-label-color: $white-ter
 
 
+
+
 .menu-label
   font-size: 1em !important
   text-align: left
@@ -121,13 +126,11 @@ $menu-label-color: $white-ter
   background-color: #d6400033
 .blog-list-item header
   display: flex
-  margin-bottom: 1em
 .blog-list-item .featured-thumbnail
   flex-basis: 35%
   margin: 0 1.5em 0 0
 
 
-@import "~bulma"
 
 
 // responsiveness
@@ -142,3 +145,7 @@ $menu-label-color: $white-ter
     text-align: center
     max-width: 70%
     margin: 0 0 1em
+
+
+audio
+  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%)

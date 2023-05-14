@@ -1,9 +1,11 @@
-import React from 'react'
+import React, { useState } from 'react'
 import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const RollCard = (props) => {
     const { image, title, description, numPages, date, document, audio, excerpt, slug } = props;
+
+    const [showAudio, setShowAudio] = useState(false);
   
     return (
       <article
@@ -20,7 +22,7 @@ const RollCard = (props) => {
               />
             </div>
           ) }
-          <p className="post-meta">
+          <div className="post-meta">
             <Link
               className="title has-text-primary is-size-4"
               to={excerpt ? slug : document.publicURL}
@@ -36,20 +38,36 @@ const RollCard = (props) => {
               {' '}
               {numPages} pages.
             </p>
-            { !excerpt && (
-              <Link className="button" style={{ marginRight: '0.75rem' }} to={document.publicURL}>
-                Read Document →
-              </Link>
-            )}
+            <div>
+              { !excerpt && (
+                <Link className="button" style={{ marginRight: '0.75rem' }} to={document.publicURL}>
+                  Read Document →
+                </Link>
+              )}
+              { audio && (
+                <div class="field has-addons" style={{display: 'inline-flex'}}>
+                  <div class="control">
+                    <button className="button" onClick={() => { setShowAudio(!showAudio) }}>
+                      <span>Listen 🎧</span>
+                    </button>
+                  </div>
+                  <div class="control">
+                    <Link className="button" to={audio.publicURL} download={audio.base}>
+                      <span>⭳</span>
+                    </Link>
+                  </div>
+                </div>
+              )}
+            </div>
             { audio && (
-              <Link className="button" to={audio.publicURL} download={audio.base}>
-                Listen 🎧
-              </Link>
-            )}
-          </p>
+              <audio controls style={{width: '100%', marginTop: '1rem'}} hidden={!showAudio}>
+                <source src={audio.publicURL} />
+              </audio>
+              )}
+          </div>
         </header>
         { excerpt && (
-          <p>
+          <p style={{ marginTop: '1rem' }}>
             {excerpt}
             <br />
             <br />
