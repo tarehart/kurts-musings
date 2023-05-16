@@ -48,8 +48,8 @@ const Footer = () => {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
+                      <Link className="navbar-item" to="/poetry">
+                        Poetry of Helen W. Arehart
                       </Link>
                     </li>
                   </ul>
