@@ -20,7 +20,7 @@ const FeatureGrid = ({ gridItems }) => (
                     width: '100%',
                   }}
                 >
-                  <FullWidthImage img={imageData} subheading={item.text} height={200} />
+                  <FullWidthImage img={imageData} subheading={item.text} height={180} />
                 </div>
               </div>
             </Link>

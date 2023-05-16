@@ -3,9 +3,11 @@ import { Link } from 'gatsby'
 import PreviewCompatibleImage from './PreviewCompatibleImage';
 
 const RollCard = (props) => {
-    const { image, title, description, numPages, date, document, audio, excerpt, slug } = props;
+    const { image, title, description, numPages, numWords, date, document, audio, excerpt, slug } = props;
 
     const [showAudio, setShowAudio] = useState(false);
+
+    const readLink = excerpt ? slug : document ? document.publicURL : slug;
   
     return (
       <article
@@ -25,7 +27,7 @@ const RollCard = (props) => {
           <div className="post-meta">
             <Link
               className="title has-text-primary is-size-4"
-              to={excerpt ? slug : document.publicURL}
+              to={readLink}
               >
               {title}
             </Link>
@@ -36,11 +38,12 @@ const RollCard = (props) => {
             <p>
               {description}
               {' '}
-              {numPages} pages.
+              {numPages && <>{numPages} pages.</>}
+              {!numPages && numWords && <>{numWords} words.</>}
             </p>
             <div>
               { !excerpt && (
-                <Link className="button" style={{ marginRight: '0.75rem' }} to={document.publicURL}>
+                <Link className="button" style={{ marginRight: '0.75rem' }} to={readLink}>
                   Read →
                 </Link>
               )}

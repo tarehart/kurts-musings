@@ -55,7 +55,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="https://github.com/tarehart/kurts-musings"
               target="_blank"
               rel="noopener noreferrer"
             >
