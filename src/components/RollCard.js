@@ -41,7 +41,7 @@ const RollCard = (props) => {
             <div>
               { !excerpt && (
                 <Link className="button" style={{ marginRight: '0.75rem' }} to={document.publicURL}>
-                  Read Document →
+                  Read →
                 </Link>
               )}
               { audio && (
@@ -53,7 +53,7 @@ const RollCard = (props) => {
                   </div>
                   <div class="control">
                     <Link className="button" to={audio.publicURL} download={audio.base}>
-                      <span>⭳</span>
+                      <span>⇩</span>
                     </Link>
                   </div>
                 </div>
