@@ -72,7 +72,7 @@ export default function EssayRoll() {
                   featuredimage {
                     childImageSharp {
                       gatsbyImageData(
-                        width: 120
+                        width: 600
                         quality: 100
                         layout: CONSTRAINED
                       )

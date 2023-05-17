@@ -9,7 +9,15 @@ export default function FullWidthImage(props) {
     title,
     subheading,
     imgPosition = "top left",
+    children,
   } = props;
+
+  console.log("Image", img);
+
+  const gatsbyImage = img && img.childImageSharp ? img.childImageSharp.gatsbyImageData : 
+    img.layout ? img : null;
+
+  console.log("Children", children);
 
   return (
     <React.Fragment>
@@ -36,7 +44,7 @@ export default function FullWidthImage(props) {
           />
         ) : (
           <GatsbyImage
-            image={img}
+            image={gatsbyImage}
             objectFit={"cover"}
             objectPosition={imgPosition}
             style={{
@@ -87,6 +95,20 @@ export default function FullWidthImage(props) {
                 {subheading}
               </h3>
             )}
+          </div>
+        )}
+        {(children) && (
+          <div
+            style={{
+              // By using the same grid area for both, they are stacked on top of each other
+              gridArea: "1/1",
+              position: "relative",
+              // This centers the other elements inside the hero component
+              placeItems: "center",
+              display: "grid",
+            }}
+          >
+            {children}
           </div>
         )}
       </div>
