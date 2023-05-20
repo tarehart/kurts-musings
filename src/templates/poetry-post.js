@@ -18,7 +18,7 @@ export const PoetryPostTemplate = ({
   const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
+    <section className="section poetry">
       {helmet || ""}
       <div className="container content">
         <div className="columns">
@@ -42,6 +42,9 @@ export const PoetryPostTemplate = ({
           </div>
         </div>
       </div>
+      {/* SASS seems to be removing unused styles that it can't see in the PostContent, so trick it. */}
+      <code></code>
+      <pre></pre>
     </section>
   );
 };

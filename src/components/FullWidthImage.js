@@ -2,20 +2,66 @@ import React from "react";
 import PropTypes from "prop-types";
 import { GatsbyImage } from "gatsby-plugin-image";
 
-export default function FullWidthImage(props) {
+
+function ImagePart(props) {
+
   const {
     height = 400,
     img,
-    title,
-    subheading,
     imgPosition = "center",
-    children,
   } = props;
 
-  console.log("Image", img);
 
   const gatsbyImage = img && img.childImageSharp ? img.childImageSharp.gatsbyImageData : 
     img.layout ? img : null;
+
+  if (gatsbyImage) {
+    return (
+      <GatsbyImage
+        image={gatsbyImage}
+        objectFit={"cover"}
+        objectPosition={imgPosition}
+        style={{
+          gridArea: "1/1",
+          // You can set a maximum height for the image, if you wish.
+          height: height,
+        }}
+        layout="fullWidth"
+        // You can optionally force an aspect ratio for the generated image
+        aspectratio={3 / 1}
+        // This is a presentational image, so the alt should be an empty string
+        alt=""
+        formats={["auto", "webp", "avif"]}
+      />
+    );
+  }
+
+  if (img) {
+    return (
+      <img
+        src={img}
+        objectFit={"cover"}
+        objectPosition={imgPosition}
+        style={{
+          gridArea: "1/1",
+          // You can set a maximum height for the image, if you wish.
+          height: height,
+          width: "100%",
+        }}
+        // This is a presentational image, so the alt should be an empty string
+        alt=""
+      />
+    );
+  }
+}
+
+
+export default function FullWidthImage(props) {
+  const {
+    title,
+    subheading,
+    children,
+  } = props;
 
   console.log("Children", children);
 
@@ -28,38 +74,7 @@ export default function FullWidthImage(props) {
           alignItems: "center",
         }}
       >
-        {img?.url ? (
-          <img
-            src={img}
-            objectFit={"cover"}
-            objectPosition={imgPosition}
-            style={{
-              gridArea: "1/1",
-              // You can set a maximum height for the image, if you wish.
-              height: height,
-              width: "100%",
-            }}
-            // This is a presentational image, so the alt should be an empty string
-            alt=""
-          />
-        ) : (
-          <GatsbyImage
-            image={gatsbyImage}
-            objectFit={"cover"}
-            objectPosition={imgPosition}
-            style={{
-              gridArea: "1/1",
-              // You can set a maximum height for the image, if you wish.
-              height: height,
-            }}
-            layout="fullWidth"
-            // You can optionally force an aspect ratio for the generated image
-            aspectratio={3 / 1}
-            // This is a presentational image, so the alt should be an empty string
-            alt=""
-            formats={["auto", "webp", "avif"]}
-          />
-        )}
+        <ImagePart {...props} />
         {(title || subheading) && (
           <div
             style={{

@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import { Link } from 'gatsby'
-import PreviewCompatibleImage from './PreviewCompatibleImage';
 import FullWidthImage from './FullWidthImage';
 
 const RollCard = (props) => {
@@ -37,7 +36,7 @@ const RollCard = (props) => {
           <span className="subtitle is-size-5 is-block">
             {date}
           </span>
-          <p>
+          <p className="post-description">
             {description}
             {' '}
             {numPages && <>{numPages} pages.</>}
