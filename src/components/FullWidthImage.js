@@ -63,8 +63,6 @@ export default function FullWidthImage(props) {
     children,
   } = props;
 
-  console.log("Children", children);
-
   return (
     <React.Fragment>
       <div

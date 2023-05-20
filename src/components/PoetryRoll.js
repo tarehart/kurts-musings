@@ -11,20 +11,24 @@ const PoetryRollTemplate = (props) => {
   return (
     <div className="columns is-multiline">
       {posts &&
-        posts.map(({ node: post }) => (
-          <div className="is-parent column is-6" key={post.id}>
-            <RollCard
-              image={post.frontmatter.featuredimage} 
-              title={post.frontmatter.title} 
-              description={post.frontmatter.description}
-              numPages={post.frontmatter.numPages}
-              date={post.frontmatter.data}
-              document={post.frontmatter.document}
-              audio={post.frontmatter.audio}
-              slug={post.fields.slug}
-            />
-          </div>
-        ))}
+        posts.map(({ node: post }) => {
+          const numWords = post.html.trim().split(/\s+/).length - 1; // Not exact, but pretty close.
+          return (
+            <div className="is-parent column is-6" key={post.id}>
+              <RollCard
+                image={post.frontmatter.featuredimage} 
+                title={post.frontmatter.title} 
+                description={post.frontmatter.description}
+                numPages={post.frontmatter.numPages}
+                numWords={numWords}
+                date={post.frontmatter.data}
+                document={post.frontmatter.document}
+                audio={post.frontmatter.audio}
+                slug={post.fields.slug}
+              />
+            </div>
+          );
+        })}
     </div>
   )
 }
@@ -51,6 +55,7 @@ export default function PoetryRoll() {
               node {
                 excerpt(pruneLength: 250)
                 id
+                html
                 fields {
                   slug
                 }

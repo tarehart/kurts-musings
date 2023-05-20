@@ -4,9 +4,11 @@ import { PoetryPostTemplate } from '../../templates/poetry-post'
 import RollCard from '../../components/RollCard'
 
 const PoetryPostPreview = ({ entry, widgetFor }) => {
-  const tags = entry.getIn(['data', 'tags'])  
-  const hasBody = !!entry.getIn(['data', 'body']);
+  const tags = entry.getIn(['data', 'tags']);
+  const body = entry.getIn(['data', 'body']);
+  const hasBody = !!body;
   const data = entry.getIn(['data']).toJS()
+  const numWords = body.trim().split(/\s+/).length - 2;
   return (
     <div>
       <RollCard
@@ -16,6 +18,7 @@ const PoetryPostPreview = ({ entry, widgetFor }) => {
         date={data.data}
         document={data.document}
         audio={data.audio}
+        numWords={numWords}
       />
 
       {hasBody && (
@@ -23,9 +26,9 @@ const PoetryPostPreview = ({ entry, widgetFor }) => {
           <hr />
           <PoetryPostTemplate
             content={widgetFor('body')}
-            description={entry.getIn(['data', 'description'])}
+            description={data.description}
             tags={tags && tags.toJS()}
-            title={entry.getIn(['data', 'title'])}
+            title={data.title}
           />
         </>
       )}
