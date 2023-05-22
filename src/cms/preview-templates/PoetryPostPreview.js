@@ -8,7 +8,7 @@ const PoetryPostPreview = ({ entry, widgetFor }) => {
   const body = entry.getIn(['data', 'body']);
   const hasBody = !!body;
   const data = entry.getIn(['data']).toJS()
-  const numWords = body.trim().split(/\s+/).length - 2;
+  const numWords = body ? body.trim().split(/\s+/).length - 2 : 0;
   return (
     <div>
       <RollCard

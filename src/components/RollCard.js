@@ -39,8 +39,8 @@ const RollCard = (props) => {
           <p className="post-description">
             {description}
             {' '}
-            {numPages && <>{numPages} pages.</>}
-            {!numPages && numWords && <>{numWords} words.</>}
+            {numPages ? <>{numPages} pages.</> : null}
+            {(!numPages && numWords) ? <>{numWords} words.</> : null}
           </p>
           <div>
             { !excerpt && (
