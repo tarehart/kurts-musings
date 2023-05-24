@@ -58,7 +58,22 @@ export default function StoryRoll() {
                 frontmatter {
                   title
                   description
+
                   numPages
+
+                  document {
+
+                    publicURL
+
+                  }
+
+                  audio {
+
+                    publicURL
+
+                    base
+
+                  }
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost
