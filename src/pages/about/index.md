@@ -1,10 +1,10 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About Kurt Arehart
 featuredimage: /img/KurtPortrait.jpg
 ---
-Kurt Arehart is an amateur writer four years into
+Kurt Arehart is an amateur writer years into
 a richly enjoyable retirement. Nearly all of these
 writings were created since.
 
