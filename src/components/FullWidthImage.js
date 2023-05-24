@@ -101,7 +101,7 @@ export default function FullWidthImage(props) {
                 className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen site-title"
                 style={{
                   lineHeight: "1",
-                  padding: "0.25rem",
+                  padding: "10px",
                   marginTop: "0.5rem",
                 }}
               >
