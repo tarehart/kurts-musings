@@ -1,13 +1,50 @@
 import React, { useState } from 'react'
 import { Link } from 'gatsby'
 import FullWidthImage from './FullWidthImage';
+import pdf from "../img/PDF_icon.svg";
+
+const ReadButton = (props) => {
+  const { document, hasBody, slug } = props;
+
+  if (document && hasBody) {
+    return (
+      <div className="field has-addons" style={{display: 'inline-flex'}}>
+        <div className="control">
+          <Link className="button" to={slug}>
+            Read →
+          </Link>
+        </div>
+        <div className="control">
+          <Link className="button" to={document.publicURL}>
+            <span className="icon is-small subdue-saturation">
+              <img src={pdf} alt="pdf" />
+            </span>
+          </Link>
+        </div>
+      </div>
+    );
+  }
+  if (document) {
+    return (
+      <Link className="button" to={document.publicURL}>
+        <span>Read PDF</span>
+      </Link>
+    );
+  }
+  return (
+    <Link className="button" to={slug}>
+      Read →
+    </Link>
+  );
+}
 
 const RollCard = (props) => {
     const { image, title, description, numPages, numWords, date, document, audio, excerpt, slug } = props;
 
     const [showAudio, setShowAudio] = useState(false);
 
-    const readLink = excerpt ? slug : document ? document.publicURL : slug;
+    const hasBody = !!excerpt;
+    const readLink = hasBody ? slug : document ? document.publicURL : slug;
   
     return (
       <article
@@ -43,13 +80,9 @@ const RollCard = (props) => {
             {(!numPages && numWords) ? <>{numWords} words.</> : null}
           </p>
           <div>
-            { !excerpt && (
-              <Link className="button" style={{ marginRight: '0.75rem' }} to={readLink}>
-                Read →
-              </Link>
-            )}
+            <ReadButton document={document} hasBody={hasBody} slug={slug} />
             { audio && (
-              <div className="field has-addons" style={{display: 'inline-flex'}}>
+              <div className="field has-addons" style={{display: 'inline-flex', marginLeft: '0.75rem'}}>
                 <div className="control">
                   <button className="button" onClick={() => { setShowAudio(!showAudio) }}>
                     <span>Listen 🎧</span>
@@ -69,17 +102,6 @@ const RollCard = (props) => {
             </audio>
             )}
         </div>
-        { excerpt && (
-          <p style={{ marginTop: '1rem' }}>
-            {excerpt}
-            <br />
-            <br />
-            <Link className="button" to={slug}>
-              Keep Reading →
-            </Link>
-          </p>
-          )
-        }
       </article>
     );
   }
