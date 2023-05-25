@@ -5,6 +5,322 @@ date: 2023-05-23T21:40:58.202Z
 description: Extending the wellness span.
 numPages: 14
 featuredimage: /img/_DSC0124-Joy of Aging Well.jpg
-document: /img/The Joy Of Aging Well.pdf
+document: ""
 audio: /img/The Joy Of Aging Well.mp3
 ---
+The Joy Of Aging Well
+
+Kurt Arehart - 2018
+
+
+
+**1 The Age Denial Trap**
+
+
+
+I have a friend, let’s call him Andy, who drew a great hand of cards from the gene pool.  Youthful good looks well into his mid-fifties, a strong, attractive, healthy body, outstanding cardiovascular capacity and remarkably fine balance and sense of his body in space.  Andy is that guy who was immediately good at every athletic thing he tried, often outperforming seasoned veterans using borrowed or outdated gear.  He believed in his ability to go hard, go large, and come through beautifully.  And it was so.
+
+
+
+People’s reactions to this vary.  If you are a strong, skilled mountain biker with much of your self esteem centered there, you dislike such an upstart as Andy, who shows up wearing running shorts, with borrowed bike, and proceeds to ride stronger than you and with more flare.  If your sense of self worth is more distributed, you can comfortably admire such a force of nature as Andy.
+
+
+
+While Andy’s physical gifts are fortunate, other aspects of Andy’s life have been less so.  Ten years back he suffered a messy divorce and the all too common horror of raising children while confronting a hostile ex-wife with joint custody.  This prolonged stressor has cost him dearly both financially and emotionally, as he absorbed years of openly mean-spirited behavior from his ex, who used the children as pawns to bring him persistent  misery.  He works two jobs to survive all this, give his children the best life possible and build assets toward retirement.
+
+
+
+Andy’s brilliant natural athleticism and youthful good looks are bright spots in a life with a darker side.  And so he clings to these.  He is positioned to be the poster boy for age denial.  He is resistant to any indication that his body is growing older.  If he has new aches or pains he just goes harder, reasoning that more training is needed.  He is desperate to stay as strong and fast as ever.
+
+
+
+Recently Andy was again calling upon his gifts of strength, balance and spatial awareness.  While not a frequent mountain biker, he was attacking a challenging trail system at a major ski resort that offers lift-served riding in the warm months.  The more advanced trails have steep sections full of boulders to ride down and over, and frequent rises that can be used as jumps.  A skilled but cautious rider can get through the “rock gardens” at moderate speed and absorb the rises to stay in contact with the trail, maintaining control.  Andy applied his go-big-or-go-home philosophy and hit the rises at speed to go soaring into space.  That familiar adrenaline rush was waiting on the other side. This time his athletic gifts were not enough.  He nosed over as he flew, and upon landing poorly was shot over the handlebars.  He instinctively thrust out a hand to save his face and head and was mostly successful, but shattered his wrist in the bargain.  He was fortunate to avoid traumatic brain injury, and his radius, ulna and assorted carpals will heal as best they can.  It turns out that Andy’s reaction speed is diminished, his bones are more fragile and his skin tears far more easily.
+
+
+
+Andy’s story is admittedly extreme, but I know plenty more aging friends who have tales of woe from the behaviors of age denial.  The distance running addict who quits only after his knees are destroyed.  The road cyclist who insists on trying to hang onto high-speed group rides even though he is struggling so much that his bike handling suffers and he has a high speed and catastrophic crash resulting in brain injury.  The former basketball star who just cannot dial his game back and so suffers a string of knee injuries leading to joint replacement.
+
+
+
+I recognize that each of us have different brain wiring.  Some are driven to compete, to overcome great suffering in order to triumph.  The push to win, or be in the community of suffering, lends meaning to an effort.  There are plenty of folks on this side of the bell curve.  Just look at the abundance of 5K, 10K, half marathons, full marathons, triathlons and ultra events.  Some folks even spend hundreds of dollars to crawl through military-style obstacle courses, wriggling through deep mud under barbed wire and jumping through flames, riding the far pole of the suffering-as-virtue, need-to-compete curve.
+
+
+
+Ultra athletes are not necessarily ultra healthy.  With so little fat reserves, they have reduced resistance to illness and may be more prone to neurodegenerative diseases, an extreme form being ALS (aka Lou Gehrig's disease, amyotrophic lateral sclerosis) which appears more frequently in athletes.   Sometimes a little less fitness is far more healthy.
+
+
+
+Here I will present a very different approach to health and wellness as we age.  My joy is in creating rich outdoor experiences with my friends. The sort we will always remember: not because of epic suffering or near calamity, but because of a shared, perfect combination of novelty, sights, sounds, smells, and a pleasing effort throughout.  That and a daily routine of yoga- and PT-inspired stretching and core work, and healthful fitness follows naturally.  More on this later. 
+
+
+
+
+
+**2 Eternal Youth**
+
+
+
+Our culture and our consumer marketing, which sadly, informs our culture, places an enormous premium on youth and beauty.  Every day we are battered with messages suggesting that the world belongs to the young.  If you are old, you are done.  Get out of the way.
+
+
+
+If you want to be seen as a leading-edge professional, better get that hair colored.  And that eye job.  Maybe a little botox.  Women are the target of most of this pressure toward eternal youth, but men are not immune.  Just count the hair replacement and hair coloring messages received in a week.  Nearly as frequent as those selling pick-up trucks to CPAs.
+
+
+
+Youth is presented as the ideal state.  But it is not.  Youth is green, shallow, uninformed by experience.  There is little of the nuance, character, complexity and balance gained through years of survivorship.  I like the bourbon analogy offered by Dr. Andrew Weil, M.D. in his book on graceful aging, [Healthy Aging: A Lifelong Guide to Your Well-Being.  “Just as with bourbon, (age) has the potential to smooth out roughness, add agreeable qualities and improve character.”](https://www.amazon.com/Healthy-Aging-Lifelong-Guide-Well-Being-ebook/dp/B000SEFKA8/ref=sr_1_2?ie=UTF8&qid=1537198386&sr=8-2&keywords=healthy+aging+a+lifelong+guide+to+your+well-being)
+
+
+
+Another favorite author, my mother, Helen W. Arehart, puts it nicely in the last verse of her poem, Retirement Plus:
+
+The one thing that we’ve going for us
+
+That was not true before,
+
+The wisdom of our life thus far
+
+Can open wide the door.
+
+The skills, the strengths and knowledge that
+
+Are ours, but are not shown,
+
+Can be the new foundation for
+
+The best we’ve ever known.
+
+So lift your cup and laugh a bit
+
+And eat your bread with honey.
+
+We wouldn’t be seventeen again
+
+For any sum of money.
+
+
+
+I agree completely.  Unless your life has gone horribly and you’d give anything for a second chance, the richness of age and leisure are very attractive compared to youth and the prospect of a lifetime of work, striving and stress.  I’ll take age 63, thank you very much.
+
+.
+
+
+
+**3 The Medical Trap**
+
+
+
+When I was age 21 and convinced of my athletic prowess and immortality, I launched myself off a jump at high speed one fine cold morning at Oregon Hill, PA, where I was a ski instructor.  I went straight down the first steep gathering big speed that I held across the upper flat.  Approaching the lip at the top of the second steep I scrubbed a little speed, but not much. I had been jumping a lot lately, and had become very comfortable with big air, sometimes carrying sixty feet or more before touching down.  With these fast conditions I might go farther than ever.  The lip was taller than normal and it really kicked me up.  At this speed I should have held a tuck position like a downhill racer, minimizing air resistance and enjoyed the flight.
+
+
+
+But in that time it was all about show, and I made the mistake of opening up for some sort of stunt, maybe a daffy duck walk or some such.  The air resistance was beyond anything in my experience and I was instantly blown back, way off balance, and no amount of windmilling of arms would save it.  Worse, my speed was so great that I had mostly out-jumped the steep section, landing some eighty feet down slope in the transition to the lower flat.  My ski tails hit first, forming an open V, and my torso slammed down forcefully between them.  There was a loud pop, a wild tumble of loose equipment and hard snow as I slid to a stop on my back, the cloud of ice crystals settled back down, and then silence.
+
+
+
+This was in the last days of 1976, and magnetic resonance imaging did not yet exist.  I did not know what an anterior cruciate ligament (ACL) was or that I had just severed this vital bit in my left knee.  All I knew was that it swelled up to grapefruit size, hurt a lot, felt deeply unstable, and I could not walk.  In that time, details of the damage could only be gained by slicing open the entire knee just to have a look, and I deferred.  I had it drained to reduce the swelling and after a few days of crutching about I found that I could walk unaided and began to think that my injury was not so serious, and that recovery might be quick.  Maybe I still had a ski season.  This is called denial, but at least I had on my side an honest ignorance of the facts.
+
+
+
+I managed to get along with that unstable knee for many years, depending upon compensating knee strengthening (mostly just hamstring curls) and eventually a brace, but occasionally finding myself on the ground in pain after yet another episode of knee collapse due to anterior pull of the tibia, with no ACL to prevent it.  ACL replacement surgery seemed like butchery with long and uncertain recovery and I avoided it as long as I could.  I made it into the new millennium, age 45, before good skiing, even with a big, clunky ACL brace, became impossible and over the same period surgical techniques and recovery times had much improved.
+
+
+
+I had ACL replacement using patella tendon tissue taken from the same knee, which offered the best long term result, if a slower, more painful recovery.  I was making an investment.
+
+
+
+Then followed five or six really good years before pain and odd little catches and joint seizures began to occur.  I was guessing meniscus tear, with the loose tissue occasionally getting pinched and causing the symptom.  I sold this diagnosis to my general practitioner, and got put through to an orthopedic surgeon who also bought my story.  An arthroscopic procedure followed to clean out any bits and pieces of loose tissue and, while in there, “extreme osteoarthritis” was observed.  Accordingly, I was offered, and accepted, a course of lubricating injections, good for maybe a year, and a nasty apparatus called an unloader brace.  Neither of these treatments were helpful.  In fact, the brace, which places lateral stress on the knee in hopes of shifting my weight onto a less-used portion of knee cartilage, was a bad and painful thing for me.  In retrospect, the notion of intentionally misaligning your body seems remarkably foolish.
+
+
+
+There was a particular day at Steamboat when good, advanced skiing caused me so much pain that I could not continue.  I left my clinic group and made my way down the mountain in utter defeat, under a gathering cloud of depression.  When I limped into my empty condo unit in the early afternoon, I was faced with a bourbon bottle and a laptop computer.  Happily, I chose the laptop, and got busy researching my knee symptoms and possible therapies.
+
+
+
+This was a major point of inflection in my life, as it turns out.  I was taking personal responsibility for my condition and doing my own research to understand my alternatives.  In only a few hours I found that my symptoms lined up nicely with maybe having adhesion of inflamed ligament sheaths, tissues unrelated to the previously suspected cartilage and meniscus trouble. Once the inflammation was managed I sought specific advice from an excellent physical therapist specializing in athletes.  I created time every morning to do the needed stretching, self massage and strengthening work, and have been pain free since.  And I can handle lots of bicycling and skiing without trouble.  Skiing bumps well and pain-free on day six of a ski trip is a beautiful thing.
+
+
+
+That was a long story, but here is the point:  you are responsible for your own health and wellness, and reliance on quick-fix procedures, apparatus or pills is probably not the answer.  If you want to be flexible, move well and feel strong and centered, you have to do the work.  Take a yoga class.  Look at using a roller stick and a foam roller for self massage and trigger-point therapy.  Consider using a bosu ball to build balance and strength in feet, ankles and knees.  It will pay handsome dividends.  It surely does for me.
+
+
+
+I do not belong to a gym.  My forty minute daily routine makes use of a slant board, a foam roller, a roller stick, a bosu ball, a swiss ball and a 25 lb kettle weight.  These are inexpensive and take up little space in my home.
+
+
+
+And here is the best part:  while I am not always eager to start my morning stretching and PT routine, I always enjoy it once I get going.  And I always come out of it feeling really good, mobile and centered.  I can fairly say I am compulsively addicted to this important part of my morning.
+
+
+
+And the long term benefits are very real, per Weil:
+
+* Flexibility and balance:  many of the aches and pains of old age are avoidable.  Training for balance and stretching tones muscles and keeps joints lubricated. (I can personally vouch for this.)  And the balance training avoids falls which lead to much injury in the aged.  Get a bosu ball!
+* Core strength and balance attends to the body’s ability to quickly compensate for sudden twists, bumps and skids.
+* Physical activity is the most important investment you can make towards healthy aging.  So make it fun and sustainable, even addictive.
+
+
+
+I hate missing my forty minutes of flexibility and core work, and rarely do.  It is both pleasurable in the moment and beneficial long term.  Skiing bumps late into a ski trip.  Such a great feeling!
+
+
+
+
+
+**4 The Facts Of Aging**
+
+Five years back I was lucky to be referred to the great book by Dr. Andrew Weil, M.D., [Healthy Aging: A Lifelong Guide to Your Well-Being.](https://www.amazon.com/Healthy-Aging-Lifelong-Guide-Well-Being-ebook/dp/B000SEFKA8/ref=sr_1_2?ie=UTF8&qid=1537198386&sr=8-2&keywords=healthy+aging+a+lifelong+guide+to+your+well-being) His knowledge and insight hit me at a very fertile time and my view of aging, wellness, nutrition and the outdoor life were forever altered.  I strongly recommend this book to you.  Consider the reading time an investment in your long term well-being.
+
+
+
+Until then, I will summarize here a few highlights that leapt out at me.
+
+* Chromosomes, the carriers of your DNA, can replicate only a limited number of times in your lifetime.  Excellent nutrition can maybe add a few more repetitions, but once a chromosome can no longer replicate accurately, no more cell division is possible, and so no more reproduction of life.  Then our cells begin to suffer age-related damage, eventually leading to cell death.
+* The more specialized a cell type is, the less able it is to replicate itself or change.  Heart muscle and brain cells are the most highly specialized.  They cannot divide or replace themselves.  When such cells die, they are permanently lost.  So, when a twenty-something cracks open his sixth beer of the evening and says, “Time to kill a few more brain cells!”, he is being chillingly accurate.
+* The concept of morbidity compression:  The goal of morbidity compression is to delay the onset of age-related disease and inevitable decline without attempting to extend life span.  This way you enjoy health into advanced years with minimal deficits and discomforts.  I have also thought of this as extending my “wellness span” rather than my life span.
+* “It is always nature AND nurture.  Nature has dealt you a certain hand of genetic cards, some good, some not so good;  it is up to you how to play them.” - Weil
+* Moderation in exercise delivers great benefits:
+* * Tones heart muscle without over-taxing, improves elasticity of arteries, counteracts age-related high blood pressure.
+  * Develops collateral blood supply to the heart, protecting against possible obstructions in coronary artery flow.
+  * Improves immune function and cognitive function and mood.
+  * Maintains good muscle mass which supports and protects joints and optimizes metabolism.  Muscle is a metabolic furnace, burning far more calories and reducing the chance of insulin resistance which leads to obesity and the chance of type-II diabetes.
+* Good sleep is really important:
+* * Know some relaxation techniques to help you sleep.  I am a big fan of a simple “gratitude drill”.  If I am lying awake, not falling asleep easily, I first reflect on how comfortable I am.  The room temperature is nice.  I have the luxury of being horizontal.  Even if I am not sleeping, I am resting comfortably, and that is nice.  Then, I recall times when I was miserably uncomfortable and could not sleep:  A particularly bad red-eye flight in a cramped seat; or when I had severe sinus congestion and a bad cough; or that time when I was wretchedly cold when winter camping as a boy.  Compared to all of that, how grateful I am to be so comfortable in my bed now.  Such a nice thought….and I am asleep.  Certainly, if your mind is too active when you get into bed, sleep will be elusive.
+  * Be open to the delights of an afternoon nap if you feel the need (45 minutes is optimal for most folks, and I have a 45 minute timer on my watch, ready to go).  After 45 minutes I awake easily and feel refreshed.  So nice to hit the reset button so pleasantly.
+  * Be fully awake when awake.  If you struggle through your day in a groggy state you will not sleep well at night.
+* Stress is a health killer:  “Cortisol, the adrenal hormone that mediates stress responses, is directly toxic to the parts of the brain responsible for memory and emotion.” - Weil.  In times of stress we must practice strategies for mediating the damaging effects on the brain and other organs.  “How you react to disturbing events is mostly a matter of habit.  Habits can be changed” - Weil. Learn to activate relaxation responses, like those taught in a beginning yoga class.
+* * Weil is a big fan of breathwork:  breathing is an automatic function handled by your unconscious mind.  By taking intentional control of breathing, taking deep slow breaths, we straddle the mind-body interface, giving a unique opportunity to modify the unconscious mind and involuntary nerves, to calming effect.  It works.  Try it.
+* Mental fitness is a big deal, and cannot be left to chance.  I am always reading, learning, writing, creating.  At a dear friend’s urging I recently took up a musical instrument for the first time in my life, and love this new form of growth and expression.  Use it or lose it!
+* Social connection is also very important.  Maintain and resuscitate old friendships and be open to new ones.  The more human connection in your life, the better.
+
+
+
+Again these concepts are just excerpts from Andrew Weil’s book, the ones that spoke loudest to me.  Reading his book is well worth your time.
+
+
+
+**5 Aging Gracefully**
+
+
+
+Reading Weil created in my mind the image of my health, wellness and capacity for activity, collectively, my vitality, as a gentle curve slowly descending as the years pass.  If I eat and sleep well, keep my body flexible, well balanced and strong, keep my mind agile and creative, have fun outdoors while staying in my comfort zone, manage stress and take the right nutritional supplements, then I believe I can manage a soft, slow descent, unmarred by the typical age-related diseases.  This, followed by a rapid and inevitable fall off into death seems ideal.  To me, it looks like this:
+
+
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAFzCAYAAADi5Xe0AAAAAXNSR0IArs4c6QAAIABJREFUeF7tnQe4VMX5/9/bC11QigIiKEqTgAhYQREVRQVUREQELPlpkn+aqb8Uk58mhpiYGI1RBAsgSBNBFEQFsSBio0WaSBFEQPptu/fu/3nnurAX7r2z5Zzds7uf8zx5kujsnDmfme873/vOnDkZgUAgIFwQgAAEIAABCEAAAo4RyMBgOcaSiiAAAQhAAAIQgIAhgMFiIEAAAhCAAAQgAAGHCWCwHAZKdRCAAAQgAAEIQACDxRiAAAQgAAEIQAACDhPAYDkMlOogAAEIQAACEIAABosxAAEIQAACEIAABBwmgMFyGCjVQQACEIAABCAAAQwWYwACEIAABCAAAQg4TACD5TBQqoMABCAAAQhAAAIYLMYABCAAAQhAAAIQcJgABsthoFQHAQhAAAIQgAAEMFiMAQhAAAIQgAAEIOAwAQyWw0CpDgIQgAAEIAABCGCwGAMQgAAEIAABCEDAYQIYLIeBUh0EIAABCEAAAhDAYDEGIAABCEAAAhCAgMMEMFgOA6U6CEAAAhCAAAQggMFiDEAAAhCAAAQgAAGHCWCwHAZKdRCAAAQgAAEIQCDhBmvr1q3y1FNPSatWrWTEiBGSk5PjSK/s379fHn30UWnYsKGMHj1a8vPzZd++ffLkk09KZmamfPe735U6deo4ci8qgQAEIAABCEAAAqEEHDNYe/bskccff9yYl//5n/8xxqa6a+PGjTJ+/Hhp3bq1jBo1SvR348aNk/bt28vgwYMlKyvL/GzSpEmydu1auf322435ivSqzmAdPHjQ3KuwsFBGjhxpTJcT94q0bfEqf+DAAfnPf/4jZWVlxlA2btw4XrfmPhCAAAQgAIG0JuCYwQoEAjJjxgz54IMP5MYbb5Tu3btXC1bLvP/++3LttdfK+eefXyN8NwxWTTeL9V5eHUEffvihvPDCC6J9c/XVV8tFF13k1abSLghAAAIQgEBKEXDMYCkVzTg9/fTTctZZZ8nw4cOPZKOCxA4dOmSyXKWlpdaMSqymp7oMVjoZrPLycnnuuedky5Ytph8aNWp0ZKk0pUYwDwMBCEAAAhDwIAFHDVZxcbHZ46RLcdUtSa1Zs8ZM+p07d5Zhw4ZJRkaGMQDBJUI1ZQsXLpQFCxZUQaVLeaFLhfqb+fPny6ZNm8Tv90u9evXkvPPOMxma4B6u6gzWsf/s7bffrvZet912m2mH3mfMmDHSpk2bI+0JLoXWrVtX7rjjDrPcGHoFn+fMM8888ozBf79y5UqZOHGiXHXVVUeySTt27JCZM2fKl19+aZ6lQYMGcuGFF5rsXnC5NJpxs337dnniiScM64KCAnn33XePe5ZgvZrh+vTTT+XVV1+Vb775xjA855xzpGXLliYDpnvjtJ7gpQZZ+0gzZEVFRYaBZiz79+8veXl50TSX30AAAhCAAARSioCjBkvJzJs3TxYtWiQ33HCD9OjR4wis4BKiTso6YXfo0MH8u2MN1ldffSVqOtQQqEno27evnHTSSdKuXTszkX/yySdm0leDoyZAzdXHH38smzdvNv8/uI8rHIOlm95rutfq1atl2rRp0qdPHxkwYMCR5wiapIsvvrjKPw8W8Pl8MmHCBLO3LHQvmj7/888/L+vWrZM777xTWrRoYdqsZfXq0qWLeaYVK1bI119/bdiF7kmLdNRpP7zzzjsma6WGSU2s3mPIkCHG2IZeuqyrS7e5ubnStm1b899qXtUoayYs1GCpiX7mmWdEX07QPtTnUFb6/0877bQqe9sibTPlIQABCEAAAqlCwHGDFcycnHzyyaKZoGBGSc3Mv//9b2OSQjM/xxqsINjqlgh1s/bUqVNNlkWzXU2aNDHF1QQEJ/277rpLmjVrJuEYrNo2uQczVWrgtL2aBQqaRDV5x2a2QgfEW2+9Ja+88koVIxnccK4ZKt3cr1ymTJkiath0w/0ZZ5xhqlADoy8B7N69W4LPEulg06ySZhLVSGnbs7OzqzV9Wm+wXcpQzZia2WA7lOnnn39+xGDp86tx0z102mY1Y3rpP9eMn/6ntv13kT4H5SEAAQhAAALJSsBxg6UZHN2HpUYr1CAEN1wfm/mJxGDVBlkndzU2waXEWA2WGg41eZpxCpqp4B4yzfAETVd1bQpdntOMkV7B/Wm62Ty4ub+mfWZqspSjHiMRzTJhcCn20ksvlX79+pn7K5uXX375OAOk2adnn33WLEtq20Kv4HJtMIMVfH41tvrPQtsW7Mezzz7bZMm4IAABCEAAAulMwHGDpTCDZiq41yhoVjZs2HDcsQuRGizNlujSmk7+uoylRiR4he7VitVgaZ3HLgcGj5hQgxS6bHjsAAqaTG2D7kXTpT9dglu1alUV06n167KhZpi6du1q9jHpklssZ4EFWWvmKbgUqe3TpVc9sqF58+ZHMmj6z481UbUZrGBflZSU1KgZNViaXeSCAAQgAAEIpDMBVwxWcHntxBNPNJO5LkPp24PB/x9qICI1WME9WJpF6d27tzlPSzM9umFdl66cymDpoAgun2n9unymZmTZsmVhnc2l+5/mzp1rlkl1s7gu2enyaOiyqd5D94DNmTPHLMVVVFQYs6UbytWc1q9fP+KxqUuLylqX+oJLkVpJTcYrGoOlS4O6n6u6S99WPPXUUyNuNz+AAAQgAAEIpBIBVwxWcK+SbthWw7Nz506zYfzYje8KMhKDFVyiUoOm9YaexO70EqG2LfQ5NCujby6qAQqeDF/bQAgaHc1MdezY0ZxWr2d/hW78D/29GiDd3L548WKzkV8NpC6x6h6wSC5dClRjV9sVunE/GoOlh8KSpYqkVygLAQhAAALpRsAVg6UQg3uO9OiEbdu2GfNQ3dENkRgsrUczQboh/NgJXk1FaHbJiSXC0Oc4/fTT5YsvvjB7msI5sDN4DpW2Q495ULOpzx/cmK/7rHTJVE2i/vvgm31q6jSjpRmwW2+91ZizcK/gMRnKWk2Q7hULvfQYCO0XNW1q3jRDFskerKBp1KMYgr8Pt22UgwAEIAABCKQTAdcMVnCy10lZJ/ZOnToddy5UOBks3WCuy4B6Bd9E1M3VOsHrG3l66fKabtTWJbZYlghD7xUcBME38vScKl3iC93XZBsouhdt+vTpppgantCN4cFsnLLRDfPBz9iEHmehy4n6O71035M+d237s3RPmmbKggb02A3y1R2VEfoWYWg7gscxhL5FqKZRM5EfffSR6Ab6yy67zHwaSS/l9NJLL5ljLfQtTi4IQAACEIBAOhNwzWAp1OCZWDrRh559FQq8pgyWZnBmz55t9hLp+Ur69uEJJ5wgs2bNkqVLl5qN47oXSDNEegaTZoDUrATfeIskg1XdvUK/2xd8Dj2LK3Rfk23gBPeiqYmp7viC4H4yzTR169bN7FELnukVeqZUkJFmv2p6e7Gmc8aObWN1Jiy0HZqp00s39KsJ1Cv0HCw9IkOPkdi1a5fZW6b7xfQ5NUOnl2bdtO1cEIAABCAAgXQm4KrBCh5XoBufqzv1XMHXZLA0g6LZH13C0jOoNDOlZ2tpFkX3KeleI82aaBZLDyPVf65La3qauC7jRWKwarpXcGCsX7/enCN1xRVXhLU8GPxdcGO5GsDqlkfVFKmR0RPUlVXwVHrdtxV6Krq+AagHhTZt2tSYneD5XaED13bCfLBs8CBUvV8wG1fTSe5q/JT1sSe5azZNT3LXTJb2gWbVNNM2cOBA80keLghAAAIQgEC6E3DVYKUKXM1g6Wnn0R78mawc1ES9/vrrEe8FS9bnpd0QgAAEIAABpwhgsCwkdXlPv+mny5OayYnljCqnOs3JejR7pVkqzQRq5iy42T743OF8mNvJ9lAXBCAAAQhAIBUIYLBq6EV9Y1GNhy7h6ZKY7i3SDzin2qXLmLoUq8t9uqdKDwrdu3evOSpCl/90WVQ3rnNBAAIQgAAEIBA+AQxWDaz0czP6ZqK+OagfXdbjEo79SHL4mL1dUt++VEOlZ2LpXi59Tn25QD+do5veU/W5vd0rtA4CEIAABJKZAAYrmXuPtkMAAhCAAAQg4EkCGCxPdguNggAEIAABCEAgmQlgsJK592g7BCAAAQhAAAKeJIDB8mS30CgIQAACEIAABJKZAAYrmXuPtkMAAhCAAAQg4EkCGCxPdguNggAEIAABCEAgmQlgsJK592g7BCAAAQhAAAKeJIDB8mS30CgIQAACEIAABJKZAAYrmXuPtkMAAhCAAAQg4EkCGCxPdguNggAEIAABCEAgmQlgsJK592g7BCAAAQhAAAKeJIDB8mS30CgIQAACEIAABJKZAAYrmXuPtkMAAhCAAARSmEB5ebmUlpZKQUGBZGRkRPykFRUVUlxcbH6fmZkZ8e9j+UHKG6x9+/bJpEmTZMuWLVKnTh0ZMmSIdOzY0TBbvXq1zJgxQw4fPiytWrWS4cOHS8OGDWPhyW8hAAEIQAACEAiDQCAQMHNwfn6+XH311Ud+UVRUJE899ZRceuml5p+99tprcscdd8jGjRtlyZIlMnr0aPObmq79+/ebeV/n9EOHDsnUqVPllltukby8PFPv9ddfb+Z8t6+UNljBzvP7/cZYqcl68cUX5bbbbpOcnByZMGGC9O3bVzp16mQ6cOfOnaZDsrKy3OZO/RCAAAQgAIG0J7BmzRp58803jWnSLJNeaqTmzJlj/ln9+vWPMFq5cmXEBqtBgwZHfq/GC4Pl0JArKSmR8ePHy4UXXiidO3cW/f+TJ0+Wfv36ic/nk4ULF8rIkSONE962bZtx0qNGjarSoQ41hWogAAEIQAACSU9gf1EgomfIz82QvOyaf3LgwAGT7LjmmmukTZs2puDcuXPNsmAwMaJzdYsWLeSNN94w/15Xmu655x7Jzc2V6dOnm9Uo/d+XXXaZXHDBBaJ1BjNYWl7/d58+fWTKlCnGB+g1dOhQeffdd80/V3+gmS71CwMHDjzSjogetJrCKZ3B0uedN2+egR3sqFdeecWYqi+++KKKEw5NKYY63lgB83sIQAACEIBAqhAY8JfDUuoP/2nm/axOrQZLa9LkhmavBgwYIMHlwf79+0v79u3NypMarJtvvlnWr19fZd7W+V23Ad1www2m3MyZM02SRFeojjVYujqlV2gGS+v9+uuvZdiwYfL555/LggULzApXMJMW/lNWXzLlDZa6UgX65ZdfSnZ2tukkXRI8NtVoM1jbt2+XHTt2xMqb30MAAhCAAATiQqBu3brGpDh5uWGw1q5da0yULgnqXPvqq68ao1RYWFirwdLN6zqvq6HSzNTEiRNFjZkmScIxWHqvWbNmyYgRI+Stt94ym+DV5Dl1pbTB0rcPdEmwWbNmZrOcwlSHq2539+7dns1gffjhh9K9e3en+jip64FF1e6Dx1EesIBFdcGNceHuuHDDYGnW6umnn5Yrr7zSLPeFGp3aMli6b1qXCLdu3Sr6tqBu97n99tvDNli6Vei5556Ts88+W3TcXHHFFY5ufk9pg6VZKYWnWasTTjjBjDp1tV26dDHO2Kt7sAgQ7gaIZHacjA3GBqaidgWjEXc1MuThoohC6OTvFVqXCLVCXe7TF9J0P7QareB+rJoMlmatNIHStGlTk0AJrlbpG4LhZrD0vh988IFJtui+LvUKtb2dGNGDi0hKGyxNH44bN84YKt3ormutmkK89tprTafov9MNbl27dvXUW4QECHcDRKQi8VJ5xgZjA4OFwQo3JiVTvNi0aZM888wzZsVJ90EFjU6owdK3CxctWiRjxowxb/s/++yz5tilc889Vz777DNzSoAex1CTwdJztHTL0ODBg6V169YG4549e+Txxx+Xnj17mhfgnLxS2mApKE0hvvDCC8YV6xkYwbcMFPS6detk2rRpZhO8l87BSiZRODkYmTjsNBkbGCx0gsGyR4rKEskULzQh8uSTT0qHDh2qGJ1Qg6VLepoY0TcM7777bjN3a9JEN7qfeeaZsnfvXrMH65RTTql2D5Ye+TB79mxZunSp2Xel5ix4uoAuD+qbik5eKW+wnIQVr7qSSRRuM4FFVcLwwGBhsDBY4cZd4oWdlCZa9LgGfctQlx2dvDBYTtJ0qC5EwSRa01BibDA2MFgYrHCnGuJF7aR0T7Ye2aTZLDdOdsdghTtS41gOUTCJYrDsgkMn6ASzidm0R4rElcBgJY59jXdm4mDiwGDZhYlO0AkGC4NljxSJK4HBShx7DFYY7JlEq0KCB6YCU4GpCCN0miLEi3BJuVMOg+UO15hqRRRMomSw7BJCJ+gEs4nZtEeKxJXAYCWOPRmsMNgziZLBwmzahYJOMJuYTbtO4l0CgxVv4mHcj2BJsMRU2IWCTtAJpoIMlj1SJK4EBitx7MlghcGeSZQMFmbTLhR0gtnEbNp1Eu8SGKx4Ew/jfgRLgiWmwi4UdIJOMBVksOyRInElMFiJY08GKwz2TKJksDCbdqGgE8wmZtOuk3iXwGDFm3gY9yNYEiwxFXahoBN0gqkgg2WPFIkrgcFKHHsyWGGwZxIlg4XZtAsFnWA2MZt2ncS7BAYr3sTDuB/BkmCJqbALBZ2gE0wFGSx7pEhcCQxW4tiTwQqDPZMoGSzMpl0o6ASzidm06yTeJTBY8SYexv0IlgRLTIVdKOgEnWAqyGDZI0XiSmCwEseeDFYY7JlEyWBhNu1CQSeYTcymXSfxLoHBijfxMO5HsCRYYirsQkEn6ARTQQbLHikSVwKDlTj2ZLDCYM8kSgYLs2kXCjrBbGI27TqJdwkMVryJh3E/giXBElNhFwo6QSeYCjJY9kiRuBIYrMSxJ4MVBnsmUTJYmE27UNAJZhOzaddJvEtgsOJNPIz7ESwJlpgKu1DQCTrBVJDBskeKxJXAYCWOPRmsMNgziZLBwmzahYJOMJuYTbtO4l0CgxVv4mHcj2BJsMRU2IWCTtAJpoIMlj1SJK4EBitx7MlghcGeSZQMFmbTLhR0gtnEbNp1Eu8SGKwwiZdXiKzaWh5m6aPF8nMzpH3zzIh+R7AkWGIq7JJBJ+gEU0EGyx4pElcCgxUm+6LSgAx8qCjM0lWL5WWLdG6VJZ1OyZIurTLl7FZZtdbDxMHEgcGySw2doBMMFgbLHikSVwKDFSb7Ep/Ir6aWhFn6aLGv9lfIzv2B437XqaUarkzp0ipLOrfMlMLcjCNlmDiYODBYdqmhE3SCwcJg2SNF4kpgsOLAfs+hgHyyuVxWbKmQlVvLZcvuCgm1XJkZIqeddNRsZexbJRf26hqHlnn/FkyiVfsIHpgKTAWmItzITbwIl5Q75TBY7nCttdaDJQFZubVCVmxR01Uua3dUONKKxnUz5MaeOXLVd7KlICQj5kjlCaqEAIHBIptnFx86wXhjvO06iXcJDFa8iVdzv1KfyMptlWZr1dYK+XRL5JvpQ6vV5cYru2bL0F45oqYrmS8mDgwWBsuuYHSCwcJg2XUS7xIYrHgTD+N+0QbLL/dWyKR3fPL6Kr/4K0RyskQu6Zgtw3rnSMvGkb3JGEYz41IkWhZxaVwCbgIPJlIm0tqFh0bQSAJCc7W3xGB5pSdC2hFrgNh1MCBT3vPJK5/4pNQvojmsnu2y5MZeOdY3GL2GI1YWXnueWNsDDyYPDBYGK9w4QrwIl5Q75TBY7nCNqVanRLGvKCDT3/fJ7I/8osdM6HVmi0yzdHhh+2zJSILVQ6dYxNQhHvoxPDBYGCwMVrghiXgRLil3ymGw3OEaU61Oi+JwaUBeXO6XmR/4RE2XXi0aZcoNPbPlyrNzzFKiVy+nWXj1OcNtFzwwWBgsDBbxIlwCiS2HwUos/2rv7tYkqsuF8z72ydSlPtFlRL0aFGbIqU0i35/VsE6GOcfrzBZZ0uHkyH8fLna3WIR7f6+VgwcGC4OFwQo3LhEvwiXlTjkMljtcY6o1HqJ45VO/TH7XJ9v3OnNEhJqsjqdkyVktMkUPUXXq7cV4sIips+L8Y3hgsDBYGKxwww7xIlxS7pTDYLnDNaZa4ykK/b6ifmcxmuvzrytk1bbKw1P1MNXQq0m9DOlwcpZ0PDlTzvrWfEVzj3iyiKZ98f4NPDBYGCwMVrhxh3gRLil3ymGw3OEaU63JKIoteypkzZcVskbP89paIVv3HO/a9KPX+TmR7aw/eOigdG3bwBygemL9yH4bUyd49MfJODbcQgkLzCZmE7PpVnxxol4MlhMUHa4jFSaOfYcDsmJr5eeBPtlSLpu+jjJNFsL20o7ZMvz8HGkdxZ4xh7soYdWlwthwCh4sMFgYLAyWU/HEjXowWG5QjbHOVJw49JiIDTsrJHD8d69rpfXJ6o2yal8r+eiLo6fb9zgtS27omSPd23j49ccYx0BNP0/FsREtKlhgsDBYGKxo40c8fofBigflCO/BxHH8xKEZsMnv+WTxf/1H9oy1a1p5plefDtmiH8xOh4uxganAVGAqwo11xItwSblTDoPlDteYakUUNU+ierzEC0t9Mu8Tv5T4KtNhTRtkyPXn5shVXXMkLycm9J7/MWMDg4XBwmCFG6iIF+GScqccBssdrjHViijsk2jw8NRZy32y93Cl0aqXnyHXdM+WwT1ypGFhaqa0GBv2sRGT+JL0x4wLxgXG23vixWB5r0+EYBlZsJz7sV+mve+Tbd8c3Uh/5dnZUb112KVllnznVO/u7WJsRDY2PChvV5rEuGBcYLBckVZMlWKwYsLnzo8JltEFy7fX+mXSOz5Z91VsbywG93Zd0jHbnQ6OoVbGRnRjIwbkSfFTxgXjAoPlPalisLzXJ2SwQvokmolj1bZy+XDT0bcOI+nid9eVm7cd9Wqme7t65sgA3dvlEa8VDY9Inj+ZysICU4GpqF2xaCSxEQ2DlVj+1d4dUSR24lixpdx8r/H9DeWiu7vqF2TItd/u7dL/nciLsZHYsZHIvq/t3owLxgVm03vqxGB5r0/IYMWYwXKqS/U0+inv+eT11X7xlYvJYl3eJUdu7JUjzRsmxmgxkTKRMpGStQk3xhEvwiXlTjkMljtcY6oVUXhrEv3mcECmv+8T3Uyvby/qmVsXtK88VV73a8XzYmx4a2zEs+/JYIVHG42gkfBGivulMFjuM474DgQIbwaI4rKAzPnIL9OX+Y583LpzyyzpeEqm5EaxR+v8M7IjNmiMDW+OjYhF7vAPGBeMCzKbDovKgeowWA5AdLoKgqX3g+WClX55/j2fbNkd2xuLPdtmyS0X5EqHk8PLhDE2vD82nI4H4dTHuGBcYLDCUUp8y6SFwdqzZ4+8+OKLsnHjRhk2bJh07tzZUF69erXMmDFDDh8+LK1atZLhw4dLw4YN49sD1dyNYJk8wfId89Zh5G8s7tgbkNdW+Y88aKeWWTKsd470alf7GVyMjeQZG/EMJIwLxgUGK56KC+9eKW+wvvnmG5kwYYL06tVLzj33XMnJqfyWyoEDB8w/79u3r3Tq1Elee+012blzpzFZWVmJPWiSYJkewXLPoYA5IPXlj/1SVFZ5Gr3u6dK9XRe2z5aMavbRMzbSY2yEF75hgamofaQQLyJVkrPlU95gLVy4UEpLS2XAgAGSETJjaTZL/93IkSMlPz9ftm3bZrJZo0aNkvr16ztLOcLaEEV6TRxFpQGZ87FfZoTs7WrZONNktPp1ypaskNVDxkZ6jY1wQwfjgnGB2QxXLfErl9IGy+fzyaRJkyQQCMimTZukvLxcrrjiCrngggtk1apVsmTJEhk9erQxWPv37zdlNYPVoEGD+PUAS4S1sk6nicNfIbJwld98zHrzt3u7TqqfIUN7VR52qhvp04mHTYSwwFRgKshg2eJEIv99ShuskpISGT9+vDRq1EgGDx5sTNTEiRNl0KBBcujQIQxWIkdemPdO10l06YZycwbXyq2V+7sa1smQoT1zxL9/o3Q88/Qw6cVWrFnDTGnaIDHnfYXT8nQdG5gKTEU4+tAyaCRcUu6US3mDNXnyZOnXr5/ZxK7XlClTpEmTJtK0adOIDNb27dtlx44d7vQCtUKgBgJb9+fLok2NZeXOenFnVJBdLmPO2SatGhTH/d7cEAIQcIZA9+7dnamIWiImkNIGq6ysTJ5++mmzJNihQ4cjBkvNlRou9mBFPF7i/gP+AqtEvmNfwCwdrvpiv9Sr677ZOlAckE27Ksyy5P035Eu3Nol98YOsDVmbcIMPMeMoKViEO2rcKZfSBkuRvf3222a/1a233mreHNSMli4RNm7cWMaNGyd9+vSRrl278hahO+Mr5loJEFURxotHICBy/+xSeXONX7IzRf53UJ55s9FLV7xYeOmZa2oLLDAV/BHiPaWmvMHSje3z5s2T9957T7Kzs+Wyyy4zGS19o3DdunUybdo0Y7w4B8t7g1NbxMSRGIOld9WDI/61oExeXO4T3Yn1s4F50r+zd0wWYwNTgakgs+nNmauyVSlvsLwMn79G7b3DJJo4gxW888R3fDJhcZn5v3f0zZWbeleeJZfoi7GBwcJgYbASHYdquz8Gy4O9w8TBxOE18/3yJ375+7xSk9W67pwc+X7/3IQrB52gEwwWBivhgaiWBmCwPNg7TBxMHF4zWNqeJWv98sdZpVJeIWapUJcME3mIAzpBJxgsDJYHp/AjTcJgebB3mDiYOLxosLRNyzeVy/++UCK+cjGb3nXzu26CT8SFTtAJBguDlYjYE+49MVjhkopjOSYOJg6vGixt16pt5fLLKaXm+4ldW2fJA0PzJS8Be9/RCTrBYGGw4jg1R3wrDFbEyNz/ARMHE4eXDZa2bdPXFfLjSSWi52Wd2SJTHrwpX+rmx3fBEJ2gEwwWBsv9GTn6O2Cwomfn2i+ZOJg4vG6wtH1f7q2Qn04qka8PBKRV40z5+y355pM+8brQCTrBYGGw4hVvorkPBisaai7/homDiSMZDJa2cc+hgPzouRJjtpo1yJCHbikw/x2PC52gEwwWBisesSbae2CwoiXn4u+YOJg4ksVgaTt1mfDnz5fIuq8qpGFhhrSQ0sQeAAAgAElEQVRuEp9d7wcPHYzqs0H9u2TLFV0SsGmMmOEiAWIGZjMuwyuim2CwIsIVn8IYLIJlMhksbatueP/l1FJZtbU8PiKJ4S76fcV/jyqQU0+MjxGMoalh/5SYQczAYIUtl7gVxGDFDXX4NyJYEiyTzWAF2/vp5vgZrLXr1kn7M84IX1gisvizcpn9oc9k2R4fXWA+Zp0KFzGDmIHB8p6SMVje6xO+vxfSJ0wcVQcoPGKbSPWQ1LsnFMuGnRUysFuO/PCKxJ9I70QIYlzENi6c6AMv1sG4SGyvYLASy7/auyMKgmWyZrDiKadodfLVvoCMebJYSnwBuf/GfOnVLiuezXblXtGycKUxCa4UFsTPBA/BI7fHYHmlJ8jaYDbDGItMHs5MHgtW+uXBOaVSLz9Dxt9VICfE8XiJMLo54iKMC2fGRcTgPf4DxkViOwiDlVj+mAoLfwJEVUDwcG4ivW9mqbz1mV+6tMqSv92Sn9DvKsYahhgXzo2LWPvCS79nXCS2NzBYieWPwcJgRTQCCZjOTaT65uOd40pkx74KGX1xrgw/PyeivvBSYcaFc+PCS/0aa1sYF7ESjO33GKzY+Lnya0RBsKxpYDE2nB0butldN70HAiL/HFkgZ7VIzqMbGBfOjgtXAnsCKmVcJAB6yC0xWInlTwaLDFZEI5CA6fxEOvldnzy1qExOqp8hT91ZIIW58TmJPqKORydh40IjzmskbPgUrEIAg+XBAUGAIECQwbIL0ymdBETkxxNLZMWWcrnozGz53eA8+809VsIpFh57rKiaAwviZ1QDx4UfYbBcgBprlQQIAgQGy64iJ3XyzeGAjP5PsRwsCcjPB+ZJ/87JdQKpkyzs5L1dAhbET6+MUAyWV3oipB0ECAIEBssuTKd1snRDufz6hRLJz8mQp+4okGYNk2ep0GkWdvreLQEL4qdXRicGyys9gcGqticIllWxwMPdyeOf88vMp3TaNc2Ux0YVSFaS7HlnXLg7Ljw4TYTVJMZFWJhcK4TBcg1t9BUjCoIlGSy7ftzQSZlf5I5xxbLtmwoZ2itH7rwkOT6l4wYLew94swQsiJ9eGZkYLK/0BBksMlhhjEUmD/cnj027Ko9u8PlF/jIsX7q18f6ndBgX7o+LMOTpuSKMi8R2CQYrsfwxFRb+BAiWCBORzdNlQl0ubFCYIRPuLDD/7eULnWCwqhufjIvEqhaDlVj+GCwMVkQjkIAZv4lUN7zrxnfNYI0dlh9RP8W7MOMifuMi3n0by/0YF7HQi/23GKzYGTpeA6IgWCYia+P4QHa5Qrd1okc2jHmiWPYcCsiIC3LkO629u1S4fv06ub7fWS4TT47q3R4XyUGhspWwSGxvYbASy58MFhmsiEYgATO+5vvTzeXy40klEfVRogrrSfQ39syRAV1zJC95P6sYMz40El+NxNxhKVwBBsuDnUuAIECQwbILM146mbrUJ+9vKLc3KIElNn5VKofKKg9HrZefIQO7ZcvgHjnSqI639465gSxe48KNtjtdJyycJhpZfRisyHjFpTSiwGBhsOxSQydHGS374CP5Jq+LTH/fJ/oWpF45WWJOpB/aO0dObpQkB3rZu91agnFB/LQOkjgVwGDFCXQktyFAECAwWHbFoJPqdbJ8U7kxWh98Xpl1y8wQ6X16lgw/P1faN099o8W4IH7ao0d8SmCw4sM5orsQIAgQGCy7ZNBJ7TrZvLtCpr3vk4Wr/OL7doWz4ymZMrRXrpx3Rpak6uIh44L4aY8e8SmBwYoP54juQoAgQGCw7JJBJ+HpZF9RQF5c7pOXPvLL/qKA+VHLxplyQ88cubxztmR79+VI+yCopgTjIrxxERVcfhQRAQxWRLjiU5gAQYDAYNm1hk4i04lmseav8MuMZT7Zsqdyn9YJdTJk8Lk5cm23bCnMS42cFuMisnFhVxoloiWAwYqWnIu/I0AQIDBYdoGhk+h1ogeo6vLhJ5sr1w7zczLkqu9km+8vNq6b3EaLcRH9uLCrjhKREMBgRUIrTmUJEAQIDJZdbOgkdp1s+rpCnnvHJ0s+80tFoPLNw36dsmXYecn75iHjIvZxYVcfJcIhgMEKh1KcyxAgCBAYLLvo0IlzOtmxLyBT3iszS4i6lKhvHp53RrY5wb5d0+R685Bx4dy4sKuQErURwGB5cHwQIAgQGCy7MNGJ8zrRDfF6xINuiD9cWrkh/uxWWSaj1eO05NgNz7hwflzY1UiJ6ghgsDw4LggQBAgMll2Y6MQ9nRSXBYzJ0g3x+i1GvU47KVNu6p0jfTtkmwyXVy/GhXvjwqt97tV2YbA82DMECAIEBssuTHQSH5288qlfJr/rk+17K988bNogwxzxYL55WPl1Hk9djIv4jAtPdbpHG4PB8mDHECAIEBgsuzDRSfx0ojmsd9b6Zcp7Pvnv9kqj1aAwQ67rniODemSb7x965WJcxG9ceKXPvdoODJYHe4YAQYDAYNmFiU4So5NPt5Qbo7Vs49EjHgZ0zTbLh1444oFxkZhxYVds+pXAYHmwzwkQBAgMll2Y6CSxOtFP8Ux6xyeL/uuX8gqRrEyRSzpky/Dzc8xJ8Ym6GBeJHReJ6ncv3heD5cFeIUAQIDBYdmGiE2/oZNfBgEx9zyfzPvVJqU/MNw57tssyGa3OLeP/5iHjwhvjwq7g1C+BwfJgHxMgCBAYLLsw0Ym3dHKwJCAzP/DJi8v9cqC48s3DDifrm4fx/bg048Jb48Ku5NQtgcHyYN8SIAgQGCy7MNGJN3VS6heZ85FPXlh69IiHFo0y5ebzcuTKs91/7ZBx4c1xYVd06pVw3GD5/X4pLi6WevXqpR6tOD0RAYIAgcGyiw2deFsnui/rjTV+s3y4aVflm4cN61S+eXht92ypX+DOm4eMC2+PC7uyU6eE4wZr//798rOf/UzKy8tl4MCBcvHFF0vDhg1Th1gcnoQAQYDAYNmFhk6SRyfvrS+XqUt9snJr5ZuHel3VNducp+X0hnjGRfKMC7vKk7uE4wZLcQQCAdm6dau8/PLLsmjRImOwhgwZIr179yazFcZ4IUAQIDBYdqGgk+TTydod+uZhmby7rlx0l5bmsM5tmyXX98yRbqc6syGecZF848Ku9uQs4YrBCqJQo7V+/XqZPn26vP3221K3bl1p3bq1/OhHP5IWLVokJ7E4tJoAQYDAYNmFhk6SVydf7q2Q59/1ycJVlR+X1qtt00y5/twcuaRjtmTHcMoD4yJ5x4Vd9clVwnGDpaZqw4YN8sorr8jrr78uzZo1k5tuukl69uwpBQUFsnz5cnnppZfkl7/8pRQWFiYXrTi1lgBBgMBg2cWGTpJfJ98cDsi0930y9yO/FJVVvnmoh5Ved06ODOwW3QnxjIvkHxd29SdHCccN1t69e+X+++83y4G6/6pJkyZVSBQVFcn8+fPl8ssvx2DVMEYIEAQIDJY9gKKT1NFJUWlAZi33y4wPfLK/qNJo5WaLXHl2jgztlWO+fxjuxbhInXERbp97tZzjBqusrMwsC55++umSm5t75LnVWL355pty6aWXSn5+vld5eKJdBAgCBAbLLkV0kno68ZeL6MelX3j/6MelMzNELjozW245P0fanGRfO2RcpN64sEcDb5ZwzGDp0uCBAwdEM1iPPvqo3HPPPdKgQYMjT7169WqzF+v3v/99Qt4q1KMjxo8fb+49fPhw0y5t04wZM+Tw4cPSqlUr88+98MYjAYIAgcGyB0x0kto6eWO13ywfrvuq8ogHvbq2zjJvHvZqV/OGeMZFao8Le2TwTgnHDJYez/DAAw/I9u3bZc+ePdK4cWPJyjoqgry8PLnxxhvlkksukYyM8NO9TqHSTfbz5s2Tjh07GiOlZnDChAnSt29f6dSpk7z22muyc+dO8+9C2+3U/SOphwBBgMBg2RWDTtJDJ6u2lsu0ZX55d51fKipXD6Vd00yzdNinQ7Zohiv0Ylykx7iwR4jEl3DMYAUfRTNYY8eOlXvvvVcaNWqU+CcUkV27dsnMmTPlhBNOEF3CVBO1ceNGWbhwoYwcOdIsWW7bts1ks0aNGiX169dPaLsJEAQIDJZdgugkvXSyY19AZizzmSXEEl+l02rWIMMc8TCga47kfXtIPOMivcaFPVIkroSjBksPF0109udYlNomXZps06aNyVoFs1QrV66UJUuWyOjRo43B0gzcpEmTjPkKXdpMRNcQIAgQGCy78tBJeurkcGlA5nzkl1nLfbL7YKXR0lPhrzsnWwb3yJF1qz+S7t272wdQGpRAI4ntZMcM1tq1a+Wxxx4zZ1zdd999smXLluOeTPc5/e1vf4trZuuzzz6TpUuXGuO0ePFiDFZix1vEdydAsPyB2bTLJl11ovu0piz1ycadlfu09M3D7s33yY8GtTDHPaT7la7jwiv97pjB0k3uJSUl5qwrr1y6eX3ixInmSIhTTz3VLAlGm8HSvWU7duzwyqPRDghAAAIQ+JbAhm8KZckXJ8h/d9U1/6Qgu1wGd/xKzm52MO0Zkc1L3BBwzGAl7hFqvrO+Jfjss8+aT/eEXmq2dHP7W2+9xR4sL3ZcSJv4C4wMFhksu0jRSSWjbd9UyP9N2y3r99Qx///SjtnywytypTAvPbNZjAu7dtws4ZjB0s3tP/7xj6tdGgw+QCKWCEPhhWawdD/WuHHjpE+fPtK1a1feInRzlMVQNwECg4XBsgsInRxltPzDD2VrRRd58s0yKfWLNKmXIb8dlCcdT3HmW4f23vBOCcZFYvvCMYOV2McI7+6hBkt/sW7dOpk2bZrZ/M45WOExjHcpAgQGC4NlVx06OcooyOLLbyrkD7NKZcPOCnOUgx7rcNvFuTF959DeE94qwbhIbH/EzWD5/X7zpp6+oZed/e37tIl9ds/eHVEcHyw921lxbhhjg7FR3ZBjXFQ/LsorRCa/65Pn3i4T/d96Evx9g/Pk5BPsJ8LHWdqu3I5x4QrWsCt1xWAtW7ZM/vSnP5nMUOilRyX89a9/9cRp6WETSkBBRMEkStbGLjx0gk7CNZuaxfrjrFKzR0vPy7rr0ly5tnuOfZAleQk0ktgOdNxg6Zt7+rHnQYMGSdu2bY2h0kNH16xZY75RqAd7JuIk98RijuzuiIKJA4Nl1ww6QSfhGiwtV+YXGbeoTGYu84m+9tTt1Cz59bV50rBO6m6ARyP2OOJmCccNlm52f/DBB42pyszMrPK/H3roIfnpT39KBsvSo4iCiQODZQ976ASdRGKwgmVXbCmX+2eXmkNK9YDSn12dJ71PT80N8GjEHkfcLOG4wdKT0x9++GE58cQTTRbrkUcekd69e4t+i3Du3Lny61//WurUqXyFlqt6AoiCiQODZY8O6ASdRGOw9DdFpQF5ZEGZLFjpN1Vc1TVb7rksT/JSbNUQjdjjiJslHDdY2th9+/aZz84MHDhQ1HBpRkv3Y2n2qlu3bm4+T0rUjSiYODBYdimjE3QSrcEK/u6ddeUy9uVSOVgckOYNM+WX1+Sm1HEOaMQeR9ws4bjB0kM9Dx06JHXr1q2y10o/srxp0yazL4u3CGvvUkTBxIHBsoc9dIJOYjVYJiFQFJCxc0tl6YZyU91NvXPkjr659gGYBCXQSGI7yXGDpXuwxo4da/ZgNWrU6MjTbd682SwX6hJh6D9P7ON78+6IgokDg2XXJjpBJ04YrGAd81f45V+vlZnlw1NPzJTfXJdn/juZLzSS2N5zzGDZTnLXrNWNN94ot912m2RlpeaGQqe6ElEwcWCw7GpCJ+jESYOlde3cH5A/zykV3QifnSky8qJcGdY7RzKS9EVDNGKPI26WcMxgBRtZUwbLzYdItboRBRMHBsuuanSCTpw2WFqfHuEwY5lPnlpUZo52OKNZpvzvoDw5uVHyZbPQiD2OuFnCcYNV0x4sNx8i1epGFEwcGCy7qtEJOnHDYAXr3LK7whznoIeU6tuFd/bNlevOSa7XDNGIPY64WcIxg/XFF1/Is88+K6NHjzZ7rXbu3Hlcu5s2bSq/+tWvzOdyuGomgCiYODBY9giBTtCJmwZL69bP6+hndvRzO/q/u7bOkl9dmyeN6ybHmiEasccRN0s4ZrBKS0tl+/bt0rp1azl48KBUVFQc1249eLR+/fqc5G7pUUTBxIHBsoc9dIJO3DZYwfrX7qiQB2ZXfmqnTl6GfK9/rvTv7P1v6qIRexxxs4RjBkuPYdCsVfPmzTmGIcYeQxRMHBgsu4jQCTqJl8HS++h+rCfeKJMXl1d+aufctlnyq2vypF6Bd7NZaMQeR9ws4ZjB2r9/v1n+0yxW//795aqrrpKWLVuSrYqi9xAFEwcGyy4cdIJO4mmwgvf66Ity+fNLpbLnUEAaFGbI/16XZ75r6MULjSS2VxwzWPoYusFdDdarr74q8+fPN5ksNVpquJo0aYLZCrOvEQUTBwbLLhZ0gk4SYbD0nodLA/LP+WWycFXlp3Z+MyhP+pzlvSVDNGKPI26WcNRghTZUzdaOHTtk4cKFxnAVFhbKddddZ8xWbm5qnJLrVscgCiYODJZdXegEnSTKYAXvq0c56AZ4XST80YA8801DL11oJLG94ZrBCma0du/eLYsXL5bJkyebJcM//OEPvEVo6XNEwcSBwbIHRnSCThJtsPT+uifrXwvKzL6skRfmyq0XeucoBzRijyNulnDcYGnmSk3VggULzDKh3+9nmTDCHkQUTBwYLLto0Ak68YLB0ja8ucYvf3qp1BzloFkszWZ5Yes7GrHHETdLOGaw9C3CWbNmyezZs6W4uJiN7jH0GqJg4sBg2QWETtCJVwyWtmP5pnL53fRSKfEF5ML22eb0d/3cTiIvNJJI+iKOGSx9i3DGjBly/vnnyxlnnMGG9hj6FVEwcWCw7AJCJ+jESwZL26Knvt87uUQOFAfMoaT335gv+QlcMUQj9jjiZgnHDJabjUy3uhEFEwcGy656dIJOvGawtD1f7q2Qn04qka8PBKRd00wZe3O+1E/QWVloxB5H3CyBwXKTbpR1IwomDgyWXTzoBJ140WBpm/SMLDVZW/ZUmI9EPzQ8X06sH/9dWWjEHkfcLIHBcpNulHUjCiYODJZdPOgEnXjVYGm7DpUE5OdTSuSz7RXm24V/H5FvzFY8LzQST9rH3wuDlVj+1d4dUTBxYLDswkQn6MTLBkvbVuoX+e30Eln+eblZJtTlQl02jNeFRuJFuvr7YLASyx+DZeFPgKgKCB6YCq+bikSHVK9pRI9u0CMc9CiH/JwMuf/GPLMBPh6X11jE45m9dA8Mlpd649u2IAomUTJYdmGiE3SSLGZTDyHVw0j1UFI9ukGPcNCjHNy+0IjbhGuvH4OVWP5ksMhgRTQCCZiYimQxFRENbAcLe1kjU5f65Ik3yszTvvCDQrM3y83LyyzcfG6v1I3B8kpPhLQDUTCJksGyCxOdoJNkNJu6XKgfib75vBwZ08fd7/KiEXsccbMEBstNulHWjSiYODBYdvGgE3SSjAZrzZcV8v1niqVeQYZM+0Gh5Li4HQuN2OOImyUwWG7SjbJuRMHEgcGyiwedoJNkNFja5rueKjanvv94QJ75dqFbFxpxi2x49WKwwuMU11KIgokDg2WXHDpBJ8lqsF5f7ZcHZpdKqyaZMuHOAvtgj7IEGokSnEM/w2A5BNLJahAFEwcGy64odIJOktVg6dENQx8pkr2HAzJ2WL50a+POOiEasccRN0tgsNykG2XdiIKJA4NlFw86QSfJarC03RPf8cmExWXSq13lR6HduNCIG1TDrxODFT6ruJVEFEwcGCy73NAJOklmg3WwOCA3/LNI/OUiz91dKM0bOn9kAxqxxxE3S2Cw3KQbZd2IgokDg2UXDzpBJ8lssLTtY+eWyqsr/DK4R47cc5nzRzagEXsccbMEBstNulHWjSiYODBYdvGgE3SS7AZry+4KGfVEseTliEz/f4VSmOtsFguN2OOImyUwWG7SjbJuRMHEgcGyiwedoJNkN1ja/h9PLJFPt5SbDJZmspy80IiTNCOvC4MVOTPXf4EomDgwWHaZoRN0kgoG6+21fvndjFJp3jBTnru7QJzMYaERexxxswQGy026UdaNKJg4MFh28aATdJIKBisQEBn2ryLZdTAg/3dDvvQ+3bkjG9CIPY64WQKD5SbdKOtGFEwcGCy7eNAJOkkFg6XPMO19nzz+epl0OzVLxt7s3JENaMQeR9wsgcFyk26UdSMKJg4Mll086ASdpIrBKioLyPX/KJJSn5iT3fWEdycuNOIExejrwGBFz861XyIKJg4Mll1e6ASdpIrB0uf4x6tl8tJHPhnQNVt+MiDPLoAwSqCRMCC5WASD5SLcaKtGFEwcGCy7etAJOkklg7VjX0BGPFYk2Vki035QKPUKYt/ujkbsccTNEhgsN+lGWTeiYOLAYNnFg07QSSoZLH2WX0wpkQ8+L5cxfXLl5vNiP7IBjdjjiJslMFhu0o2ybkTBxIHBsosHnaCTVDNYyzaWyy+nlkijOhkmi5URYxILjdjjiJslMFhu0o2ybkTBxIHBsosHnaCTVDNYAREZ8Vix7NhXIb+5Lk/6dMi2C6GWEmgkJnwx/xiDFTNC5ytAFEwcGCy7rtAJOkk1g6XPM/tDn/xzfpl0ODlTHhlZYBcCBismRm7+GIPlJt0o62biYOLAYNnFg07QSSoaLD2qQY9s0KMb/jOmQNo1jf7IBjRijyNulsBguUk3yroRBRMHBssuHnSCTlLRYOkz6aGjevjopR2z5VfXRn9kAxqxxxE3S2Cw3KQbZd2IgokDg2UXDzpBJ6lqsPSzOTf/q8hscp/6/UKz6T2aC41EQ82532CwnGPpWE2IgokDg2WXEzpBJ6lqsPS5fju9RN5ZVy4jLsiR2y7KtQuimhJoJCpsjv0Ig+UYSucqQhRMHBgsu57QCTpJZYP16eZy+fGkEnPgqB7ZkBPFN6DRiD2OuFki5Q3Wtm3bZMqUKbJr1y6pU6eOXH311fKd73xHMjIyZPXq1TJjxgw5fPiwtGrVSoYPHy4NGzZ0k3dYdSMKJg4Mll0q6ASdpLLB0mcb9USxbNldIfdenSdXdIn8yAY0Yo8jbpZIaYNVXFws48ePlx49esg555wjmzZtkunTp8vIkSOlsLBQJkyYIH379pVOnTrJa6+9Jjt37jQmKysrij8VHOwlRMHEgcGyCwqdoJNUN1ivfOqXv75caj7+rB+BjvRCI5ESc7Z8ShusvXv3yrJly+Siiy6SgoICKSkpkcmTJ0u/fv3E5/PJwoULjdnKz88XzXRpNmvUqFFSv359ZylHWBuiYOLAYNlFg07QSaobLF+5yA3/LJKDxQH52y35cnaryP74RyP2OOJmiZQ2WMeC2759u8yaNUtGjBghmzdvliVLlsjo0aONwdq/f79MmjTJZLAaNGjgJnNr3YiCiQODZZWJoBN0kuoGS59v/OIymfSOTy5ony33DYnsyAY0Yo8jbpZIG4Oly4XPPPOMdOvWTc4991xZuXIlBsvNkeVQ3QSIqiDhgalIB1MRS/hINY3sPRyQoY8USSAgMvl7hXJivfCPbEg1FrGMi0T8Ni0MVnl5uVn+y83NlYEDB5o9VpEaLM1+7dixIxF9xD0hAAEIQCCNCUxe0UI+2VFfLm+3Sy5tuyciEt27d4+oPIWdI5DyBisQCMjrr78u33zzjQwZMuTIBvaNGzeyB8u5ceRaTfwFRgaL5VK7vNBJamc23/rML/fNLJUebbPkz0Pz7QPi2xKMi7BRuVIwpQ2Wmqs333xT1q9fL7feeqvZ6B68Dhw4IOPGjZM+ffpI165deYvQleEVe6UECAwWBsuuI3SS2gZr98HKZcLCvAyZ85NC+4DAYIXNyM2CKW2wdOP6o48+Kvv27avC8Oyzzzab2detWyfTpk0TNVucg+XmMIu+biYODBYGy64fdJLaBkufbvDDRbK/KCDPfLdATjkhvA9AMy7s2nGzREobLDfBuVk3okj9YBnt+GFsMDaqGzuMi9QfF7pEqEuFPx+YJ/07h3foKOMi2kjrzO8wWM5wdLQWRJH6wTLaAcPYYGxgsGpXT6pqZOpSnzzxRplc2z1HfnB5eN8mTFUW0cbPeP8OgxVv4mHcD1EwibIsZhcKOkEn6WQ2V24tlx8+VyKnN8uUx0eHd6o7GrHHETdLYLDcpBtl3YiCiQODZRcPOkEn6WSwSv0iV489bB557r11JC+MVUI0Yo8jbpbAYLlJN8q6EQUTBwbLLh50gk7SyWDps971VLFs2Fkh/xiRL51a2j+bg0bsccTNEhgsN+lGWTeiYOLAYNnFg07QSboZrIdfLZM5H/nkrkty5cZeOVaRoBErIlcLYLBcxRtd5YiCiQODZdcOOkEn6Waw5q/wy1/mlspFZ2bL7wbbv0uIRuxxxM0SGCw36UZZN6Jg4sBg2cWDTtBJuhmsLXsqZNR/is33CKd8337gKBqxxxE3S2Cw3KQbZd2IgokDg2UXDzpBJ+lmsPR5Bz5UJEWlAZn5w0JpUFj7h5/RiD2OuFkCg+Um3SjrRhRMHBgsu3jQCTpJR4P18yklsvzzcvn9kDy5sH3trxKiEXsccbMEBstNulHWjSiYODBYdvGgE3SSjgbr6bfK5Lm3fTK0V47ceUntB46iEXsccbMEBstNulHWjSiYODBYdvGgE3SSjgbr/Y3l8qupJdK5ZZY8PCK/VqGgEXsccbMEBstNulHWjSiYODBYdvGgE3SSjgZL91/pPiw9aPTle+tIRi3bsNCIPY64WQKD5SbdKOtGFEwcGCy7eNAJOklHg6XPfOu/i+XLvRXynzEF0q5pZo1iQSP2OOJmCQyWm3SjrBtRMHFgsOziQSfoJF0N1gOzS+X11X75f1fkyjXdaj5wFI3Y44ibJTBYbtKNsm5EwcSBwbKLB52gk3Q1WC8u98kjC8qkf+ds+fnAmg8cRSP2OOJmCQyWm3SjrBtRMINyHh0AABSZSURBVHFgsOziQSfoJF0N1todFXL3hGJp2ThTnr6rgCVCe7hISAkMVkKw135TJg4mDgyWXZjoBJ2kq8HyV4hc9ZfDov895yeFUphX/U53NGKPI26WwGC5STfKuhEFEwcGyy4edIJO0tVg6XN//5liWfNlhfz5pnzpcVpWtYJBI/Y44mYJDJabdKOsG1EwcWCw7OJBJ+gknQ3WvxeWyfRlPhl5Ya7cemH1G93RiD2OuFkCg+Um3SjrRhRMHBgsu3jQCTpJZ4O1aI1f/vhiqZzbNkv+NLT6A0fRiD2OuFkCg+Um3SjrRhRMHBgsu3jQCTpJZ4O1c39Abn60yOy/0n1Y6czCHi0SUwKDlRjutd6ViYOJA4NlFyY6QSfpbioGP1wk+4sC8ux3C+TkE44/cBSN2OOImyUwWG7SjbJuRMHEgcGyiwedoJN0N1i/nV4i76wrl19ckyeXdco+DgcasccRN0tgsNykG2XdiIKJA4NlFw86QSfpbrAmv+uTpxaVybXdc+QHl+disOxhI64lMFhxxR3ezZg4mDgwWHatoBN0ku4G65PN5fKTSSVyRrNM+ffo4w8cRSP2OOJmCQyWm3SjrBtRMHFgsOziQSfoJN0NVqlf5Oqxhw2GuffWkbxjVgnRiD2OuFkCg+Um3SjrRhRMHBgsu3jQCTpJd4Olz3/7uGLZ9HWF/GNEvnRqWfXAUTRijyNulsBguUk3yroRBRMHBssuHnSCTjBYIg/NK5V5n/jlu5fmyg09qx44ikbsccTNEhgsN+lGWTeiYOLAYNnFg07QCQZLjLlSk3XRmdnyu8F5VZCgEXsccbMEBstNulHWjSiYODBYdvGgE3SCwRLZtKtCbn+yWE6qnyHPf6/qgaNoxB5H3CyBwXKTbpR1IwomDgyWXTzoBJ1gsEQCAZGrxh4W3fA+84eF0qAw4wgWNGKPI26WwGC5STfKuhEFEwcGyy4edIJOMFiVBH46uUQ+/qJcfj8kTy5sf/RVQjRijyNulsBguUk3yroRBRMHBssuHnSCTjBYlQT0sFE9dHRorxy585KjB46iEXsccbMEBstNulHWjSiYODBYdvGgE3SCwaok8O76cvnNtBLp0ipL/n5L/hEsaMQeR9wsgcFyk26UdSMKJg4Mll086ASdYLAqCegHn/XDz3rQ6Mv31pGMb7dhoRF7HHGzBAbLTbpR1o0omDgwWHbxoBN0gsE6SmD4o0Xy1f6A/GdMgbRrmmn+BRqxxxE3S2Cw3KQbZd2IgokDg2UXDzpBJxisowT++GKpLFrjlx9ekScDu1VudEcj9jjiZgkMlpt0o6wbUTBxYLDs4kEn6ASDdZTAjGU+eWxhmVzeJVt+dnXlgaNoxB5H3CyBwXKTbpR1IwomDgyWXTzoBJ1gsI4SWPNlhXz/mWJp1ThTJtxVgMGyhxDXS2CwXEcc+Q2YOJg4MFh23aATdILBOkrAXyFy1V8Oi/73nJ8USmFeBhksexhxtQQGy1W80VXOxMHEgcGyawedoBMMVlUCd08olrU7KuTBYflyTpssDJY9jLhaAoPlKt7oKmfiYOLAYNm1g07QCQarKoF/LSiTWct9cttFuTLighwMlj2MuFoCg+Uq3ugqZ+Jg4sBg2bWDTtAJBqsqgddX+eWBl0qlZ9sseWBoPgbLHkZcLYHBchVvdJUzcTBxYLDs2kEn6ASDVZXA9r0VMuLfxWb/le7DQiP2OOJmCQyWm3SjrBtRMHFgsOziQSfoBIN1PIGBDxVJUWlAnv1ugXy16WPp3r27XUyUcIUABssVrLFVysTBxIHBsmsInaATDNbxBH79Qoks3VAuv7wmTxqVforBsocS10pgsFxDG33FTBxMHBgsu37QCTrBYB1P4Lm3ffL0W2VybfccOb/JSgyWPZS4VgKD5Rra6Ctm4mDiwGDZ9YNO0AkG63gCH24ql589XyLtm2fKmC5rMFj2UOJaCQyWa2ijr5iJg4kDg2XXDzpBJxis4wno/ivdh5WdKfLHfmvl3HO62cVECVcIYLBcwRpbpUwcTBwYLLuG0Ak6wWBVr5NRTxTLlt0V8r1em2XQJR3sYqKEKwQwWK5gja1SJg4mDgyWXUPoBJ1gsKrXyV/mlsr8FX4ZdNZO+d6g0+xiooQrBDBYrmCNrVImDiYODJZdQ+gEnWCwqtfJ3I/98vdXSuWck/fLgyNb2MVECVcIpLXBWr16tcyYMUMOHz4srVq1kuHDh0vDhg1dAR1JpUwcTBwYLLti0Ak6wWBVr5MNOyvkrqeKpVndUpn0gxPsYqKEKwTS1mAdOHBAJkyYIH379pVOnTrJa6+9Jjt37jQmKysryxXY4VbKxMHEgcGyqwWdoBMMVvU6CQRErhp7WDIzymXuvfXtYqKEKwTS1mBt3LhRFi5cKCNHjpT8/HzZtm2byWaNGjVK6tdP7IBk4mDiwGDZ4x06QScYrJp18qOJJbJ+RxkGyx5KXCuRtgZr5cqVsmTJEhk9erQxWPv375dJkyaZDFaDBg1cAx5OxUwcTBwYLLtS0Ak6wWDVrJMn3iiTlz4swWDZQ4lrJTBYGCzXBpcTFTOJVqUID0wFpqL2yIJGKvksWeuXB18qwmA5MRFFWQcGK0yD9cQTT4j+hwsCEIAABCDgdQIZ2QVy2ZB75IF7b/J6U1O2fWlrsLy8BytlRxsPBgEIQAACEEgTAmlrsPQtwnHjxkmfPn2ka9eunnqLME3GHo8JAQhAAAIQSFkCaWuwtEfXrVsn06ZNEzVbXjoHK2VHGw8GAQhAAAIQSBMCaW2w0qSPeUwIQAACEIAABOJMAIMVZ+DcDgIQgAAEIACB1CeAwUr9PuYJIQABCEAAAhCIMwEMVpyBH3u7QCAga9askZdfflnKy8vl7rvvPnLQ6dy5c+Wtt9468pNTTz31yMGoCW6247ffsmWLeemgpKSkSt39+/eXSy+9VN5++23zIkJZWZl07NhRrr/+eikoKHC8HV6osDYW/fr1kw8++MDsHQxe+v3Me+65J+EH5LrFrri4WKZPny767dDc3Fy57LLL5IILLpCMjAzZt2+fOSBYmdWpU0eGDBlixkeqXhovatJCUVGRPPnkk/Lll18eeXzVj46ZVL2C35PVZw+NC7VxSlUWoVpo0qSJDBs2TE455RTzuOkWM7zSxxisBPfEJ598YozD0KFDjRgyMzOPtEgnji5dukjnzp0T3Mr4397n85mJ8+KLL5a8vDyZPHmyYdSsWTNjLtRUDBgwIP4NS8AdQ1m0adPGfOJJr1SeOEMx6x8ZOpHqZ60OHTokEydOlEGDBon+waGft1LNDBw40JisF198UW677TZp3LhxAnrK/Vtu377dPL/+gdGyZcsqWvDS1yjcJyHm27HPPfecDB48WFq0aCFTp06VE0880cQF5ZROMUNjhI4LnUMuueQSWbp0qejcol8q0T9E0y1mxGP8hXMPDFY4lFwqo9kaDRD6wel27dpVuYtmavTf6TESbdu2dakF3q1Ws3rvvfee3HrrrSZQfPbZZ3LLLbeYrIVOtvpXvH43UjMaqX6FssjJyZEpU6aYMdGjR49Uf3TzfGq0mzZtesRQBv/wUAbPPPOMmVBbt25tspv6AXfNbqVqFuvYT3zp/1+xYoX5xJd+T1Uz4SNGjJDCwsKUHxv67BobgnFBzzZ84403zPPrv0unmKHmWg2WjgP941Mzes8++6zRhr4hn24xwyuDH4OVwJ746quv5IUXXjAZmk2bNhlhaLDQv0LUfOlksXv3bvNX+7Ep3wQ22/Vb61Kp/vXZoUMH6d69u/nrS/9a1eChl2Yq9J/dfPPN5juSqXwdy0KXPjSQKoODBw+aiTTVl8X00ye6xKFmW7WgmtFn1md/6qmnTDZHJ5GgGUvlrO+ePXuMqbzuuuuOZLD02dVUbt682YwNzWZo/Ej1pfRjDZZqQpeSx4wZY8ZLOsWMYw2W9v/48ePlwgsvlE6dOqVdzPDKnIDBSmBPaEB4+umnzV8Z3bp1k48++kjef/99k9bNzs42f4Fp6rtRo0by+uuvyxdffGGWPzSLkcqXpvdnzZpl/hKtX79+WhusY1mo4dqwYYPUrVtXmjdvbv6CX7Rokdx+++2GVSpeahjUcGvmUpcDr7jiCrN0rOfXpZvB0v7VzO7s2bOloqJC2rdvb/7w0D80dA+OmqwzzzzT7OdUI6Ym66KLLkrFYWGWAUOXS+fMmWNipu5HTDeDpRrRuUSXzXXP6qpVq8wfIrqtQv9QTbeY4ZUBj8FKYE8cm4nRCUP/6tA9BcG/yIPN0+CpKV/N2mg2K1UvzdDMmzfPLAUG91ilawarOhbH9rv+paoTqe7HStWlZB0Pqg3NWmkG6/nnnzf7TNRgppvB0ky3mqvgUtD8+fPN0qjuSVPNhF5qvvU/+odKVlZWyoWM0I3s+nBqNlUPyka3EKRTBkufX5eIVRua5dQtJ8rimmuuOW4uSYeY4ZXBjsFKYE+oIHRTri59aPZBJxFdFtSJRP+/BojTTjvNBMd0MVgaHDRbcdNNN5kNq3rpX6PptJ8iOCSrY6Fv1Kkx13GhmcxUD5b6fJql0L/KdYO/XsENu+edd17a7cHSZ9dsxZVXXnnccvmuXbvMmNAXQfRKdYN1bOjWjd36BqXGz3SNGUEmX3/9tcycOdNsOdH5I51iRgKn9ONujcFKYG9ooNSslGar9C/y4F4TXSLUTYrBvRaa9k2XJUJ9Y0yDgwbJ4F/ktb05lcDuc/3W1bFQg6UmvFevXuYbmqm+RKhLXbqpXZdE9U1BNVyqGV1SVwb6FqHf7zfjJR3eItQYoeNC/yjTPZv6BrLqQ7NUutk9uFdNB2eqLxEGBahj5L///a/JfOvRBPp2ZbrGDM3q6b5dXR4866yzzLySbjHD9cAcwQ0wWBHAcqNobWeXBM94OXz4sHmLSpcHg3+dutGWRNepz6mTp+6xCWYrtE0aNHTi0HPB0uEcLH3mmliELgVoxkL356m5OOOMMxLdfa7dXzO7uidPJ1Hdg9W7d2+zfKx/meu/02WRzz//PC3OwVIzsXjxYrPvrrS0tMo3VPXfqcnQPVp66WZ/XTrUl2hS9VJTrdsq9FgOHRPBZfJ0jBnBje179+41m9vPP//8I0vDweXDdIkZXhnvGCyv9ATtgAAEIAABCEAgZQhgsFKmK3kQCEAAAhCAAAS8QgCD5ZWeoB0QgAAEIAABCKQMAQxWynQlDwIBCEAAAhCAgFcIYLC80hO0AwIQgAAEIACBlCGAwUqZruRBIAABCEAAAhDwCgEMlld6gnZAAAIQgAAEIJAyBDBYKdOVPAgEIAABCEAAAl4hgMHySk/QDghAAAIQgAAEUoYABitlupIHgQAEIAABCEDAKwQwWF7pCdoBAQhAAAIQgEDKEMBgpUxX8iAQgAAEIAABCHiFAAbLKz1BOyAAAQhAAAIQSBkCGKyU6UoeBAIQgAAEIAABrxDAYHmlJ2gHBCAAAQhAAAIpQwCDlTJdyYNAAAIQgAAEIOAVAhgsr/QE7YAABCAAAQhAIGUIYLBSpit5EAhAAAIQgAAEvEIAg+WVnqAdEIAABCAAAQikDAEMVsp0JQ8CAQhAAAIQgIBXCGCwvNITtAMCEIAABCAAgZQhgMFKma7kQSDgXQIrVqyQsWPHyp///Gc5+eSTvdtQWgYBCEDAIQIYLIdAUg0EIFA9gUAgIE8++aTMnz9fbr/9drnyyitBBQEIQCDlCWCwUr6LeUAIJJbAvn375KGHHpILLrhAli1bJj//+c8lNzfXNGrPnj0mq/XJJ5/I+eefL7t27ZLbbrtNevToIZs2bZIHH3xQNm7cKJdffrncfffdUlhYmNiH4e4QgAAEwiSAwQoTFMUgAIHoCHzwwQfy6quvGoOkhumuu+6Stm3bSnl5ufz973+X5s2byw033GAM1W9+8xu599575bTTTpP7779fhg0bJl26dDEZsDp16sioUaOiawS/ggAEIBBnAhisOAPndhBIJwJBE6UmqX///sYo1atXT2666SbZu3ev/PGPf5Sf/OQnZl9WSUmJ/OEPf5BBgwZJVlaWvPzyy/KLX/xCcnJyZMOGDfL8888b85Wfn59OCHlWCEAgSQlgsJK042g2BJKBwM6dO00mSpcF1UTpUuCkSZPk97//vXz11Vfyj3/8Q+677z5p1KhRFYO1bds2+de//lXlEVu1aiV/+9vfTFkuCEAAAl4ngMHyeg/RPggkMYEFCxaYZcHQS/df6T9r2bJljRkszXwtXrxYfvrTn5psFhcEIACBZCOAwUq2HqO9EEgSAmVlZfLAAw9Iz549j7w5GHyjUB9h9OjR8vDDD1e7B6t169by29/+VsaMGSPnnHOOrF271vznmmuukYyMjCQhQDMhAIF0JoDBSufe59kh4CKBLVu2mLcHf/3rX8tJJ5105E5qlB555BGz30oNV/Atwm7dupllQjVVumdr9erVptz69evl9NNPN8uMbdq0cbHFVA0BCEDAOQIYLOdYUhMEIBAhgd27d0t2drY0aNBAPvvsM3n88cePM2QRVklxCEAAAp4ggMHyRDfQCAikHwHNXn388cfy2GOPmSMadBP8D3/4Q9FMFhcEIACBZCeAwUr2HqT9EIAABCAAAQh4jgAGy3NdQoMgAAEIQAACEEh2AhisZO9B2g8BCEAAAhCAgOcIYLA81yU0CAIQgAAEIACBZCeAwUr2HqT9EIAABCAAAQh4jgAGy3NdQoMgAAEIQAACEEh2AhisZO9B2g8BCEAAAhCAgOcIYLA81yU0CAIQgAAEIACBZCeAwUr2HqT9EIAABCAAAQh4jgAGy3NdQoMgAAEIQAACEEh2AhisZO9B2g8BCEAAAhCAgOcIYLA81yU0CAIQgAAEIACBZCeAwUr2HqT9EIAABCAAAQh4jgAGy3NdQoMgAAEIQAACEEh2AhisZO9B2g8BCEAAAhCAgOcIYLA81yU0CAIQgAAEIACBZCeAwUr2HqT9EIAABCAAAQh4jgAGy3NdQoMgAAEIQAACEEh2AhisZO9B2g8BCEAAAhCAgOcI/H9ihRKlGefRMQAAAABJRU5ErkJggg== "Chart")
+
+Vitality here is defined as an abstract conceptual representation of pain-free wellness, mobility and vigor, with 100 being you at your most vital, say age 30.
+
+
+
+As you travel this curve, giving your capacity away oh so slowly, be sure to savor life and flourish at each point along it, finding the joy. Feel and express gratitude for a body that moves well and is pain free, that enables a great many joyous life experiences in retirement.  At the end, I want my curve to fall off quickly.  This would be the time of morbidity, and I do not wish to linger there.
+
+
+
+**6 So, If You Can No Longer Rip Around With Your Hair On Fire, Now What?**
+
+
+
+And now, at age 63, at this point on my gentle aging curve, my athletic joys are these:
+
+Bicycling:
+
+* There was a time when I formed and co-led a racing team.  We trained and suffered together.  We frequently spiked our heart rates, rode to exhaustion and had some crashes, won some, lost some, laughed, cried and bonded.  It was a fine time, but these were the games of youth.  Now I have no interest in racing.  I have no interest in riding any faster than my body wants to go in pleasant comfort.
+* Then followed many years of non-competitive road riding.  We rode in pacelines and looked out for each other, bonded, and tried to keep the effort steady and sustainable, but with an eye toward average speeds approaching twenty miles per hour.  While this group continues today at a more moderate pace, I choose not to ride with them.  Again, I like to ride at the pace my body wants in the moment, and not feel compelled to go faster or slower, as the needs of a large group may dictate.  Plus, riding out on the open road is ever more dangerous as the number of distracted or openly hostile drivers increases.  Cycling is far safer on greenways, in quiet neighborhoods and downtown grids, and in beautiful and remote locations.
+* Mountain biking is great fun with its novelty, challenge and woodland immersion.  Some folks feel compelled to keep raising the bar for technical challenge.  If you cleared a 10” log, time to try a 12” log.  “If you are not falling you are not learning”.  Rubbish.  Not for me.  I love riding in nature along with the challenges of carving a nice turn on a curving trail, traversing moderate rock gardens and stream crossings, tricky descents and climbs.  But I keep it in my comfort zone.  My rule:  if it doesn’t look good, don’t do it, get off and walk the sketchy section.  Live to ride another day.  And keep your teeth.  And, I have good friends who see it the same way, which is nice, since it is not smart to be out there solo.
+* I am retooling all my bikes for lower gearing to allow easy hill climbing.  This way I can plan to ride in gorgeous mountain terrain without fearing the climbs.  And when I do climb, I am not suffering, but am laboring pleasantly, with my head up, taking in all the beauty around me.  If a lovely image composes itself in my eye, I stop and capture it. Nice!
+
+
+
+Skiing: 
+
+I mentioned earlier that I was a ski instructor for a time, when I was a junior and senior at Penn State.  This was a time of great learning for me.  Hiring in as a new ski instructor was an exercise in humility, but constituted intensive ski training free of charge.  I was an unschooled hotshot, and now was finding out that I knew almost nothing, and what I did know was mostly wrong.  For me training required tearing out years of incorrect, deeply imbedded muscle memory and building back up from nearly zero.  This would have been very tough on my age-twenty ego, but I found I was having better luck than most in grasping the new ideas and successfully demonstrating them.  I was making the sincere effort to lay a fresh foundation, and progressed rapidly as we trained long and hard each weekend.  And there was the reckless ripping about in the off times, with high speed descents, monster jumps and flirtation with acrobatic aerials.  It was a grand time.  And it ended with a career-ending crash that I described earlier.  
+
+
+
+Now my skiing looks like this: 
+
+* I love skiing with beautiful efficiency.  I find joy in making a perfect carve, round and clean and easy, with my body position stacked just right.  I modulate speed not by brute force but by using the hill.  Want to go a little slower?  Just finish the turn a little more so you are actually traveling back up slope a bit.
+* In bumps I also look for the efficient, round, fluid line, banking against bump sides to catch an effortless turn, extending and flexing as needed to maintain constant edge pressure and solid control.  Fluid.  Lovely.  Easy on the joints.
+* I love keeping my skills sharp and sharing what I know with friends.  I like helping them deepen their skills and enjoyment, and the teaching has the added benefit of moderating the day’s pace.  Again, easy on the body, highly sustainable.
+
+
+
+Operating at this level I can ski for days without any joint inflammation at all.  I expect to be able to gradually ease it up, dialing back the pace and terrain difficulty, and stay out on the mountain enjoying skiing for many years to come.  Thus, a classic example of using experience and long-honed skill to stay in the game, aging at its finest.
+
+
+
+Hiking:
+
+Hiking has been a lovely family pursuit for many years.  Here the path into aging is obvious.  It is easy to moderate pace and terrain selection and so effort.  Trekking poles take the load off the knees both for climbing and descending, and add important stability.  No falls please!  Steady intake of hydration and fuel is the ticket (true of all athletic endeavors).  And stopping to photograph the beauty is a great way to keep it easy and fun.  Since I am the stronger, I try to carry more than Nancy, lightening her bag, balancing our effort.  We look forward to many more years of hiking adventures, hopefully taking in the best of the National Parks.
+
+
+
+**7 So What About The Diet And Supplemental Nutrition Part?**
+
+
+
+The key point stressed repeatedly by Weil is the need to avoid inflammatory foods to avoid atherosclerosis, very likely the root cause of coronary heart disease.  Cholesterol deposits may be a flawed attempt to patch inflammation damage to the artery walls.  C-reactive protein is a key measure of inflammation and so asking your physician to add this test to your annual lipid panels is a great idea.  You do go in for an annual physical, right?  Regardless of your C-reactive protein metric, we should all focus on cutting down our consumption of high glycemic-load foods to reduce inflammatory stress.  What are these offending foods?  Here is a handy listing.
+
+<https://extension.oregonstate.edu/sites/default/files/documents/1/glycemicindex.pdf>
+
+Per Weil, glycemic load is the key metric, because this best represents the inflammatory insult to your body from high glycemic foods.
+
+
+
+I try to eat well, but still I take supplements to fill in the gaps, in hopes of slowing aging processes and avoiding age related diseases.  This is about compressing morbidity to use Weil’s term, extending wellness span, to use mine:
+
+* A good, age and gender specific multivitamin, to fill in any gaps in a nutritious diet.
+* Rhodiola Rosea, aka arctic root: anti-fatigue, antistress, antioxidant, anticancer, immune enhancing
+* Co Q10: antioxidant, increases oxygen use at the cellular level, improving heart function and aerobic capacity.
+* Acetyl-L-Carnitine and Alpha Lipoic Acid:  antioxidant, helps with energy production within mitochondria, decreases insulin resistance, and so avoids type-II diabetes.
+* Saw Palmetto: supports urinary tract health for men.
+* Glucosamine, Methyl-Sulfonyl-Methane (MSM) and Chondroitin: a joint support compound.
+* Low-dose aspirin (81mg):  reduces chance of heart disease by down-regulation of inflammation, reduces stickiness of blood platelets (and so less likely to clump and clot), reduces cancer risk. 
+* DHEA (dehydroepiandrosterone):  a hormone that may improve bone density and skin thickness and tone, and decrease abdominal fat.  Increases insulin sensitivity and general libido in both men and women.
+* K2+D3:  supports heart and bone health.
+
+
+
+**8 The Mental Side Of Wellness**
+
+You can buy into everything I’ve presented here, but if you are loaded up with emotional stress, you are still in trouble. Life can be far less stressful if you can adopt the habit of positive framing:  do not see setbacks as permanent, nor an attack on your self worth.  Cognitive therapy can aid those who apply a negative frame.  Negativity and the stress that comes with it has a direct impact on immune system function.  To back this assertion, Weil cites Martin E. P. Seligman, a professor of psychology at the University of Pennsylvania, a leader in the field of Positive Psychology, and author of the classic work, [Learned Optimism](https://www.amazon.com/s/ref=nb_sb_ss_ime_i_2_8?url=search-alias%3Daps&field-keywords=learned+optimism&sprefix=learned+%2Caps%2C177&crid=22MR9IDZI6QQQ).  I have read Seligman, and it was time well spent.  The key concept:  if you are plagued by negative thoughts or images, cognitive therapy can offer tools that aid you in replacing the negative thought or image with a positive one.
+
+
+
+In a closing bit of whimsy Weil shares the well known Serenity Prayer along with something a bit more age specific:
+
+
+
+* Serenity Prayer:  God, grant me serenity to accept the things I cannot change, courage to change the things I can, And wisdom to know the difference.  
+* Senility Prayer:  God, grant me the senility to forget the people I never liked anyway, the good fortune to run into the ones I do, and the eyesight to tell the difference.
+
+
+
+**Wrap Up**
+
+At the close of Weil’s book he offers his own summary of key points, and I can think of no better wrap up.  So here it is.  But buy and read his book.  Really!  You and he deserve it.
+
+
+
+**Weil’s 12 Points For Healthy Aging:**
+
+1. Eat an anti-inflammatory diet
+2. Use dietary supplements wisely to support your body’s defenses and natural healing power.
+3. Use preventive medicine intelligently:  know your risks, get appropriate diagnostics and treat problems.
+4. Get regular physical activity.
+5. Get adequate rest and sleep.
+6. Learn and practice methods of stress protection.
+7. Exercise your mind as well as your body.
+8. Maintain social and intellectual connections as you go through life.
+9. Be flexible in mind and body:  learn to adapt to losses and let go of behaviors no longer appropriate for your age.
+10. Think about and try to discover for yourself the benefits of aging.
+11. Do not deny the reality of aging or put energy into trying to stop it. Use the experience of aging as a stimulus for spiritual awakening and growth.
+12. Keep an ongoing record of the lessons you learn, the wisdom you gain, and the values you hold.  At critical points in your life, read this over, add to it, revise it, and share it with people you care about.
+
+
+
+
+
+<!--EndFragment-->
