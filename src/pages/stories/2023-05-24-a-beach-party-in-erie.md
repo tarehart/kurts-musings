@@ -6,4 +6,5 @@ description: Confessions of a slow learner.
 numPages: 4
 featuredimage: /img/13-13-19 Beach Party.jpg
 document: /img/A Beach Party In Erie.pdf
+audio: /img/a-beach-party-in-erie.mp3
 ---
