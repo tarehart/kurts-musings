@@ -43,8 +43,10 @@ export const PoetryPostTemplate = ({
         </div>
       </div>
       {/* SASS seems to be removing unused styles that it can't see in the PostContent, so trick it. */}
-      <code></code>
-      <pre></pre>
+      <div style={{display: 'none'}}>
+        <code></code>
+        <pre></pre>
+      </div>
     </section>
   );
 };
