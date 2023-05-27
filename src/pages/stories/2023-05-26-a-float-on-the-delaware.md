@@ -1,6 +1,7 @@
 ---
 templateKey: story-post
 title: A Float On The Delaware
+displayOrder: 1
 date: 2023-05-26T00:20:42.317Z
 description: A whitewater thriller.
 numPages: 6

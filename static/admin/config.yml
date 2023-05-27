@@ -26,6 +26,8 @@ collections:
           default: "essay-post",
         }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Display Order", name: "displayOrder", widget: number, value_type: "float" }
+      - { label: "Author", name: "author", widget: "string", default: "Kurt Arehart" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Number of Pages", name: "numPages", widget: number }
@@ -46,6 +48,8 @@ collections:
         default: "story-post",
       }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Display Order", name: "displayOrder", widget: number, value_type: "float" }
+      - { label: "Author", name: "author", widget: "string", default: "Kurt Arehart" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Number of Pages", name: "numPages", widget: number }
@@ -66,6 +70,7 @@ collections:
         default: "poetry-post",
       }
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Display Order", name: "displayOrder", widget: number, value_type: "float" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "text" }
       - { label: "Featured Image", name: "featuredimage", widget: image }

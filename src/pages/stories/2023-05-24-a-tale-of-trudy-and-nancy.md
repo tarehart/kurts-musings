@@ -1,6 +1,7 @@
 ---
 templateKey: story-post
 title: A Tale Of Trudy and Nancy
+displayOrder: 2
 date: 2023-05-24T16:31:47.646Z
 description: A tumultuous start to a beautiful thing.
 numPages: 8

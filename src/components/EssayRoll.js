@@ -45,7 +45,7 @@ export default function EssayRoll() {
       query={graphql`
         query EssayRollQuery {
           allMarkdownRemark(
-            sort: { order: DESC, fields: [frontmatter___date] }
+            sort: { order: ASC, fields: [frontmatter___displayOrder] }
             filter: { frontmatter: { templateKey: { eq: "essay-post" } } }
           ) {
             edges {

@@ -11,7 +11,7 @@ const ReadButton = (props) => {
       <div className="field has-addons" style={{display: 'inline-flex'}}>
         <div className="control">
           <Link className="button" to={slug}>
-            Read →
+            Read
           </Link>
         </div>
         <div className="control">
@@ -85,12 +85,12 @@ const RollCard = (props) => {
               <div className="field has-addons" style={{display: 'inline-flex', marginLeft: '0.75rem'}}>
                 <div className="control">
                   <button className="button" onClick={() => { setShowAudio(!showAudio) }}>
-                    <span>Listen 🎧</span>
+                    <span>Listen</span>
                   </button>
                 </div>
                 <div className="control">
                   <Link className="button" to={audio.publicURL} download={audio.base}>
-                    <span>⇩</span>
+                    <span>⇩ mp3</span>
                   </Link>
                 </div>
               </div>

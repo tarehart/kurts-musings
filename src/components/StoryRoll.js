@@ -45,7 +45,7 @@ export default function StoryRoll() {
       query={graphql`
         query StoryRollQuery {
           allMarkdownRemark(
-            sort: { order: DESC, fields: [frontmatter___date] }
+            sort: { order: ASC, fields: [frontmatter___displayOrder] }
             filter: { frontmatter: { templateKey: { eq: "story-post" } } }
           ) {
             edges {
