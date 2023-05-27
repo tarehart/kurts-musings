@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import { Link } from 'gatsby'
 import FullWidthImage from './FullWidthImage';
 import pdf from "../img/PDF_icon.svg";
+import mp3 from "../img/download-mp3-icon.svg";
 
 const ReadButton = (props) => {
   const { document, hasBody, slug } = props;
@@ -90,7 +91,9 @@ const RollCard = (props) => {
                 </div>
                 <div className="control">
                   <Link className="button" to={audio.publicURL} download={audio.base}>
-                    <span>⇩ mp3</span>
+                  <span className="icon turn-blue">
+                    <img src={mp3} alt="mp3" />
+                  </span>
                   </Link>
                 </div>
               </div>
