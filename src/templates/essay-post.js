@@ -14,6 +14,8 @@ export const EssayPostTemplate = ({
   tags,
   title,
   helmet,
+  author,
+  year,
 }) => {
   const PostContent = contentComponent || Content;
 
@@ -26,7 +28,7 @@ export const EssayPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
-            <p>{description}</p>
+            { author && year && <h4>{author} - {year}</h4>}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -75,6 +77,8 @@ const EssayPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        author={post.frontmatter.author}
+        year={post.frontmatter.date}
       />
     </Layout>
   );
@@ -94,9 +98,10 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        date(formatString: "YYYY")
         title
         description
+        author
         tags
       }
     }

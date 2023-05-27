@@ -3,6 +3,7 @@ templateKey: essay-post
 featuredimage: /img/HWA_Table_edited.jpg
 featuredpost: false
 title: A Late Life Journey
+author: Kurt Arehart
 displayOrder: 1
 date: 2023-01-01T15:04:10.000Z
 description: Two who lived well, then lingered far too long.

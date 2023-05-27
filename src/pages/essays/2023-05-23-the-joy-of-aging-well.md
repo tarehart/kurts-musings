@@ -1,15 +1,15 @@
 ---
 templateKey: essay-post
 title: The Joy Of Aging Well
-date: 2023-05-23T21:40:58.202Z
+displayOrder: 1
+author: Kurt Arehart
+date: 2018-01-01T22:40:00.000Z
 description: Extending the wellness span.
 numPages: 14
 featuredimage: /img/_DSC0124-Joy of Aging Well.jpg
 document: /img/The Joy Of Aging Well.pdf
 audio: /img/The Joy Of Aging Well.mp3
 ---
-Kurt Arehart - 2018
-
 ## 1 The Age Denial Trap
 
 I have a friend, let’s call him Andy, who drew a great hand of cards from the gene pool.  Youthful good looks well into his mid-fifties, a strong, attractive, healthy body, outstanding cardiovascular capacity and remarkably fine balance and sense of his body in space.  Andy is that guy who was immediately good at every athletic thing he tried, often outperforming seasoned veterans using borrowed or outdated gear.  He believed in his ability to go hard, go large, and come through beautifully.  And it was so.
@@ -54,8 +54,6 @@ So lift your cup and laugh a bit
 We wouldn’t be seventeen again
       For any sum of money.
 ```
-
-
 
 I agree completely.  Unless your life has gone horribly and you’d give anything for a second chance, the richness of age and leisure are very attractive compared to youth and the prospect of a lifetime of work, striving and stress.  I’ll take age 63, thank you very much.
 

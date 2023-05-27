@@ -40,7 +40,7 @@ const ReadButton = (props) => {
 }
 
 const RollCard = (props) => {
-    const { image, title, description, numPages, numWords, date, document, audio, excerpt, slug } = props;
+    const { image, title, description, numPages, numWords, document, audio, excerpt, slug } = props;
 
     const [showAudio, setShowAudio] = useState(false);
 
@@ -70,10 +70,6 @@ const RollCard = (props) => {
           
         </header>
         <div className="post-meta">
-          <span></span>
-          <span className="subtitle is-size-5 is-block">
-            {date}
-          </span>
           <p className="post-description">
             {description}
             {' '}

@@ -14,7 +14,6 @@ const EssayPostPreview = ({ entry, widgetFor }) => {
         title={data.title} 
         description={data.description}
         numPages={data.numPages}
-        date={data.data}
         document={data.document}
         audio={data.audio}
         excerpt={data.body?.substring(0, 400)}
@@ -28,6 +27,8 @@ const EssayPostPreview = ({ entry, widgetFor }) => {
             description={entry.getIn(['data', 'description'])}
             tags={tags && tags.toJS()}
             title={entry.getIn(['data', 'title'])}
+            author={data.author}
+            year={data.date.getFullYear().toString()}
           />
         </>
       )}
