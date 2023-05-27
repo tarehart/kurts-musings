@@ -78,7 +78,7 @@ const StoryPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
         author={post.frontmatter.author}
-        year={post.frontmatter.date}
+        year={post.frontmatter.year}
       />
     </Layout>
   );
@@ -98,9 +98,10 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "YYYY")
+        date(formatString: "MMMM DD, YYYY")
         title
         author
+        year
         description
         tags
       }

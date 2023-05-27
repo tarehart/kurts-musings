@@ -3,6 +3,7 @@ templateKey: essay-post
 title: The Joy Of Aging Well
 displayOrder: 1
 author: Kurt Arehart
+year: 2018
 date: 2018-01-01T22:40:00.000Z
 description: Extending the wellness span.
 numPages: 14

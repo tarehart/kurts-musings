@@ -13,6 +13,7 @@ export const PoetryPostTemplate = ({
   description,
   tags,
   title,
+  year,
   helmet,
 }) => {
   const PostContent = contentComponent || Content;
@@ -24,6 +25,7 @@ export const PoetryPostTemplate = ({
         <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
           {title}
         </h1>
+        { year && <h4>{year}</h4> }
         <PostContent content={content} />
         {tags && tags.length ? (
           <div style={{ marginTop: `4rem` }}>
@@ -52,6 +54,7 @@ PoetryPostTemplate.propTypes = {
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
+  year: PropTypes.number,
   helmet: PropTypes.object,
 };
 
@@ -75,6 +78,7 @@ const PoetryPost = ({ data }) => {
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        year={post.frontmatter.year}
       />
     </Layout>
   );
@@ -96,6 +100,7 @@ export const pageQuery = graphql`
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
+        year
         description
         tags
       }

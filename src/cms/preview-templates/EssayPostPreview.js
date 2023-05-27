@@ -28,7 +28,7 @@ const EssayPostPreview = ({ entry, widgetFor }) => {
             tags={tags && tags.toJS()}
             title={entry.getIn(['data', 'title'])}
             author={data.author}
-            year={data.date.getFullYear().toString()}
+            year={data.year}
           />
         </>
       )}

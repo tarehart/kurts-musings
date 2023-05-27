@@ -28,6 +28,7 @@ const PoetryPostPreview = ({ entry, widgetFor }) => {
             description={data.description}
             tags={tags && tags.toJS()}
             title={data.title}
+            year={data.year}
           />
         </>
       )}
