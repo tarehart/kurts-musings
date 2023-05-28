@@ -9,7 +9,7 @@ description: Charles has a bad day, followed by a good week.  An Arehart family 
 numPages: 6
 featuredimage: /img/Charles Hurt His Knee IMG_7037.jpg
 document: /img/Charles Hurts His Knee.pdf
-audio: /img/Charles Hurts His Knee.mp3
+audio: /img/charles-hurts-his-knee.mp3
 ---
 Charles sits with his leg up, in muted pain, a large knee brace clumsy on his bare leg.  Less than an hour ago he had for the fifth day in a row been carried down onto the beach by able-bodied young family members who have been happy to perform this service so Charles can drink in the daily family encampment.  His folding beach chair, in which he was carried, occupies a prime position under one of several shade canopies, in easy earshot of the family conversations around him.  His grandchildren swirl around him bickering loudly, lost in their own petty grievances, be it sand thrown or castle mashed, oblivious to his injury or pain.
 
