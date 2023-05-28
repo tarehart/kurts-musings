@@ -1,6 +1,9 @@
 ---
 templateKey: story-post
 title: A Beach Party In Erie
+displayOrder: 2.3
+author: Kurt Arehart
+year: 2019
 date: 2023-05-24T16:29:40.015Z
 description: Confessions of a slow learner.
 numPages: 4
