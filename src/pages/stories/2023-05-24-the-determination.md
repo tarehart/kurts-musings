@@ -1,8 +1,9 @@
 ---
 templateKey: story-post
 title: The Determination
-displayOrder: 4
+displayOrder: 3.2
 author: Kurt Arehart
+year: 2020
 date: 2023-05-24T16:12:21.924Z
 description: A close call for a small boy.
 numPages: 5
