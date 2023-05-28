@@ -1,8 +1,9 @@
 ---
 templateKey: story-post
 title: Rumble On The PTC
-displayOrder: 5
+displayOrder: 2.1
 author: Kurt Arehart
+year: 2021
 date: 2023-05-24T16:21:11.093Z
 description: Life lessons in the back of the bus.
 numPages: 5
