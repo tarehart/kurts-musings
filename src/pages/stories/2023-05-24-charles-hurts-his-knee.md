@@ -1,8 +1,9 @@
 ---
 templateKey: story-post
 title: Charles Hurts His Knee
-displayOrder: 2
+displayOrder: 1.3
 author: Kurt Arehart
+year: 2023
 date: 2023-05-24T16:05:56.839Z
 description: Charles has a bad day, followed by a good week.  An Arehart family tale.
 numPages: 6
