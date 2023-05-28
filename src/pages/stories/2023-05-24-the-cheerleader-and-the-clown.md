@@ -3,6 +3,7 @@ templateKey: story-post
 title: The Cheerleader And The Clown
 displayOrder: 7
 author: Kurt Arehart
+year: 2020
 date: 2023-05-24T19:25:12.676Z
 description: A costume party of note.
 numPages: 7
