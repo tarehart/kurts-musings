@@ -9,7 +9,7 @@ description: Learnings to meet the moment.
 numPages: 8
 featuredimage: /img/WaterTeachings2 DSC07922-2.jpg
 document: /img/Water Teachings.pdf
-audio: ""
+audio: /img/water-teachings.mp3
 ---
 At one in the morning with not a puff of breeze, the harbor was quiet, the water still this summer night.  Under a bright moon the dipping of oars expertly feathered in and out was scarcely audible as she easily pulled her dory across the mirror-still surface.  How odd it was that this new friendship, just hours old, had Kevin reclining on the stern thwart of this gorgeous rowboat, his back resting against the sloping transom.
 
