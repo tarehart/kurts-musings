@@ -20,7 +20,7 @@ export const PoetryPostTemplate = ({
 
   return (
     <section className="section poetry">
-      {helmet || ""}
+      <div style={{flexGrow: 1}}></div>
       <div className="container content">
         <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
           {title}
@@ -40,6 +40,7 @@ export const PoetryPostTemplate = ({
           </div>
         ) : null}
       </div>
+      <div style={{flexGrow: 2}}></div>
       {/* SASS seems to be removing unused styles that it can't see in the PostContent, so trick it. */}
       <div style={{display: 'none'}}>
         <code></code>

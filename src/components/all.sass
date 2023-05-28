@@ -163,12 +163,33 @@ a.title
 .content
   word-break: break-word
 
+  blockquote
+    background: transparent
+    border-left: none
+
   code, pre
     font-family: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif
     background-color: transparent
     padding: 0
     line-height: 1.6
     overflow-x: initial
+
+pre
+  font-size: 1em
+  display: inline-block
+
+.section.poetry
+  display: flex
+
+  .container
+    display: flex
+    width: fit-content
+    flex-direction: column
+    margin: 0 0 1em 0
+
+  div, h1
+    display: inline-block
+    width: fit-content
 
 @media(max-width: 800px)
   .section.poetry
