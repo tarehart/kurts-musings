@@ -1,8 +1,9 @@
 ---
 templateKey: story-post
 title: Mountain Times
+displayOrder: 50.1
 author: Kurt Arehart
-year: 2016
+year: 2019
 date: 2023-05-24T19:20:41.073Z
 description: Highlights and lowlights of a life on skis.
 numPages: 10
