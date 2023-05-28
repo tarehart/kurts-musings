@@ -3,6 +3,7 @@ templateKey: story-post
 title: The Project
 displayOrder: 3.1
 author: Kurt Arehart
+year: 2020
 description: A disquieting role reversal.
 featuredimage: /img/_DSC0162-The Project.jpg
 featuredpost: false
