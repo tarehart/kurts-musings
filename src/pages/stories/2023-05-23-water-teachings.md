@@ -1,8 +1,9 @@
 ---
 templateKey: story-post
 title: Water Teachings
-displayOrder: 1
+displayOrder: 1.2
 author: Kurt Arehart
+year: 2021
 date: 2023-05-28T20:12:09.929Z
 description: Learnings to meet the moment.
 numPages: 8
