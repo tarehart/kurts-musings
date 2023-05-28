@@ -1,15 +1,15 @@
 ---
 templateKey: essay-post
-featuredimage: /img/HWA_Table_edited.jpg
-featuredpost: false
 title: A Late Life Journey
-author: Kurt Arehart
 displayOrder: 1
-date: 2023-01-01T15:04:10.000Z
+author: Kurt Arehart
 description: Two who lived well, then lingered far too long.
 numPages: 16
+featuredimage: /img/HWA_Table_edited.jpg
+featuredpost: false
+date: 2023-01-01T15:04:10.000Z
 document: /img/Bob & Helen Arehart - A Late Life Journey.pdf
-audio: /img/A Late Life Journey.mp3
+audio: /img/a-late-life-journey.mp3
 ---
 Life follows a curve.  If you are lucky, you rise up to reach a peak of freedom and empowerment, and then begins the time of loss.  Bob and Helen Arehart together had such a journey.
 
