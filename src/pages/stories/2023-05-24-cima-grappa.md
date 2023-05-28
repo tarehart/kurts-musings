@@ -3,6 +3,7 @@ templateKey: story-post
 title: Cima Grappa
 displayOrder: 10
 author: Kurt Arehart
+year: 1996
 date: 2023-05-24T16:36:09.684Z
 description: Swashbuckling Tyrolean adventure from 1996.
 numPages: 4
