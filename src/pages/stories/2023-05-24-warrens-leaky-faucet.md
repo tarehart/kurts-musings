@@ -9,6 +9,7 @@ description: Home maintenance gone bad.
 numPages: 4
 featuredimage: /img/_DSC0162-The Project.jpg
 document: /img/Warren's Leaky Faucet.pdf
+audio: /img/warren-s-leaky-faucet.mp3
 ---
 Warren and Kurt are good old buddies who have independently discovered the magic of YouTube how-to videos as a grand first step in any voyage into the home maintenance unknown.  And sometimes they chase these ventures together.
 
