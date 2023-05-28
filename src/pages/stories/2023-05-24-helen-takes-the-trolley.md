@@ -1,8 +1,9 @@
 ---
 templateKey: story-post
 title: Helen Takes The Trolley
-displayOrder: 3
+displayOrder: 1.4
 author: Kurt Arehart
+year: 2022
 date: 2023-05-24T16:15:24.835Z
 description: A daunting bit of motherhood.
 numPages: 2
