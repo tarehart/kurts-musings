@@ -1,6 +1,9 @@
 ---
 templateKey: story-post
 title: Warren's Leaky Faucet
+displayOrder: 2.2
+author: Kurt Arehart
+year: 2023
 date: 2023-05-24T16:09:23.422Z
 description: Home maintenance gone bad.
 numPages: 4
