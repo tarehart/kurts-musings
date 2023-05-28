@@ -1,7 +1,9 @@
 ---
 templateKey: story-post
 title: A Tale Of Trudy and Nancy
-displayOrder: 2
+displayOrder: 4
+author: Kurt Arehart
+year: 2019
 date: 2023-05-24T16:31:47.646Z
 description: A tumultuous start to a beautiful thing.
 numPages: 8
