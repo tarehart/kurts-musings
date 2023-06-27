@@ -9,6 +9,7 @@ description: A close call for a small boy.
 numPages: 5
 featuredimage: /img/DSC07109 Poetry Of HWA.jpg
 document: /img/The Determination.pdf
+audio: /img/the-determination.mp3
 ---
 
 
