@@ -8,6 +8,7 @@ description: A loving eulogy as delivered.
 numPages: 3
 featuredimage: /img/_DSC2745-Print Master.jpg
 document: /img/Meditations On Bob Arehart.pdf
+audio: /img/meditations-on-the-life-of-bob-arehart.mp3
 ---
 When a man and a woman have lived almost 70 fine years together, it is difficult to speak of one without the other. Today we celebrate a life well lived, and at the same time an extraordinary marriage, filled with kindness and generosity, encompassing so many good works.
 
