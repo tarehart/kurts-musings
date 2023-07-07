@@ -9,6 +9,7 @@ description: A tumultuous start to a beautiful thing.
 numPages: 8
 featuredimage: /img/_DSC0086 Trudy&Nancy.jpg
 document: /img/A Tale Of Trudy And Nancy.pdf
+audio: /img/a-tale-of-trudy-and-nancy.mp3
 ---
 I thumped to the living room floor with her body pressing me into the oriental rug.  My struggles to free myself and rise were muted by some sense of fair play and adult dating decorum.  I wanted off the floor, but did not want to hurt her with too explosive an effort to escape.  Pinned for the moment, she pressed her lips against mine, and my mind raced for some gentle, artful escape.
 
