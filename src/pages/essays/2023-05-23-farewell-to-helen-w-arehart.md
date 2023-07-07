@@ -8,6 +8,7 @@ description: Eulogy for a saint.
 numPages: 5
 featuredimage: /img/_DSC0224-Farewell to HWA.jpg
 document: /img/Farewell To Helen W Arehart.pdf
+audio: /img/farewell-to-helen-w-arehart.mp3
 ---
 ##### August 6, 1926 - February 15, 2019
 
