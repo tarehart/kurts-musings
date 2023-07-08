@@ -29,8 +29,6 @@ Adam’s eyes grew wide.  He was not used to being spoken to in this way, one-o
 
 “You have two choices:  You can go home right now, and that will be the end of it.  Or, I can take you home, and explain to your mom how you were endangering others and why I had to bring you home.  Which would you like?”
 
-
-
 - - -
 
 “I want Cheerios.”, proclaimed age two Tyler when asked his breakfast preference.
@@ -42,8 +40,6 @@ Nancy rummaged in the pantry and remembered the Cheerios had run out yesterday.�
 “You know what I wish?  I wish we had so many Cheerios that we could fill up the bathtub with them and you could dig down into them like at the beach.  Wouldn’t that be great?”
 
 “Yeah!”  A pause as Tyler imagines this image.  “I’ll have Rice Krispies”.
-
-
 
 - - -
 
@@ -57,11 +53,9 @@ Nancy and Kurt bought in fully, committing to parent Tyler in this style uniform
 
 Which brings us back to that scene with the cheerios.  Nancy had read this exact scenario in Faber, and stood ready with her lines.  She was “fulfilling with fantasy”.  She let Tyler know that his desire for cheerios was heard and understood.  That his wishes matter.  With this in hand, he easily settled for Rice Krispies.
 
-
-
 - - -
 
-Nancy, age 33 and Tyler, age one were off to the food market.  Tyler was seated in the large metal wire shopping cart, facing Nancy but with his back to their movement through the store.  Nancy noticed Tyler was getting a bit short-tempered, judged his blood-sugar was low, and gave him a bagel to chew on.  She’d pay for it at check-out, whether he finished it or not.
+Nancy, age thirty-three and Tyler, age one were off to the food market.  Tyler was seated in the large metal wire shopping cart, facing Nancy but with his back to their movement through the store.  Nancy noticed Tyler was getting a bit short-tempered, judged his blood-sugar was low, and gave him a bagel to chew on.  She’d pay for it at check-out, whether he finished it or not.
 
 But there was little chance he’d have finished the bagel by check-out.  Tyler was a very slow, deliberate eater.  While this required extra time budgeting, he rarely brought anything back up, which was a fine trade.
 
@@ -86,8 +80,6 @@ Several days later Nancy was again with Tyler at the Stop & Shop.  Again she ga
 Tyler handed it over immediately and without protest.
 
 A stunned Nancy received the bagel and handed it back when they got out of the car after a peaceful drive home.  She had played it by the book, and it worked.  She had issued her instruction twice, then delivered the consequence of misbehavior without a word, in this case wrenching the bagel from Tyler’s hand.  Had she made a threat to enforce her demand, Tyler may have seen this as a challenge that must be met.  And so often threats turn out to be hollow.  Instead, Tyler learned that an instruction ignored will bring swift, rational consequence.  He also learned that tactical crying was useless with Nancy.  Another important lesson.
-
-
 
 - - -
 
@@ -123,13 +115,11 @@ Whenever Kurt beckoned Tyler, it might be a quiet correction, like: “I noticed
 
 Or just as often it might be quiet, private praise: “Hey, I saw how you chose to share your bucket with that other boy.  That was a kind and generous act, and I love it.”
 
-
-
 - - -
 
 Age six Coleman prepared his breakfast, poured milk over his Cheerios, then carried his bowl and spoon carefully to the table.
 
-Ten minutes later, Kurt noticed the milk still sitting out, and knew with certainty that Coleman was the culprit.  “Coleman, I see the milk sitting out.  If it doesn’t go back in the fridge it will spoil and we’ll need to buy more.  Waste like that really makes me angry.”
+Ten minutes later, Kurt noticed the milk still sitting out, and knew with certainty that Coleman was the culprit.  “Coleman, I see the milk sitting out.  If it doesn’t go back in the fridge it will spoil and we’ll need to buy more.  Waste like that really bothers me.”
 
 Without a word, Coleman got up and put the milk away.
 
@@ -195,7 +185,7 @@ Instead:
 
 “Yeah, but I want to go to McDonalds.”
 
-“Well, if I rushed home from work to make dinner for us, and you and Mom went to McDonalds instead, I know I’d be angry, maybe even a little hurt.  Let’s not do that to her.”
+“Well, if I rushed home from work to make dinner for us, and you and Mom went to McDonalds instead, I know I’d be pretty upset, maybe even a little hurt.  Let’s not do that to her.”
 
 “Maybe next week?”
 
@@ -296,8 +286,6 @@ And so we gathered up the bike bottles, and Nancy was saved.
 And then we lavishly celebrated Tyler’s creative solution.  I wanted to make sure this was a great moment for Tyler: to be the guy with the great idea!
 
 And so it was for both Tyler and Coleman.  We encouraged creative thinking and problem solving always, and took time to celebrate these great moments when they came.  And they came because we listened, and welcomed good ideas from everywhere.
-
-
 
 - - -
 
