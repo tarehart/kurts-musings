@@ -7,7 +7,7 @@ date: 2023-07-06T21:43:42.506Z
 description: Principles of a great book applied.
 numPages: 15
 featuredimage: /img/12-37-47 Cheerleader & Clown.jpg
-document: /img/parenting-playbook.pdf
+document: ""
 ---
 <!--StartFragment-->
 
