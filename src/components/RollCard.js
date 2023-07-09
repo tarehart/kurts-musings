@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import FullWidthImage from './FullWidthImage';
 import pdf from "../img/PDF_icon.svg";
 import mp3 from "../img/download-mp3-icon.svg";
+import vid from "../img/youtube.svg";
 
 const ReadButton = (props) => {
   const { document, hasBody, slug } = props;
@@ -99,6 +100,9 @@ const RollCard = (props) => {
                 <div className="control">
                   <Link className="button" to={video} target="_blank">
                     Watch
+                    <span className="icon" style={{ marginLeft: '.75rem', marginRight: '0' }}>
+                      <img src={vid} alt="video" />
+                    </span>
                   </Link>
                 </div>
               </div>
