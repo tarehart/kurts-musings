@@ -21,6 +21,7 @@ const StoryRollTemplate = (props) => {
               date={post.frontmatter.data}
               document={post.frontmatter.document}
               audio={post.frontmatter.audio}
+              video={post.frontmatter.video}
               excerpt={post.excerpt}
               slug={post.fields.slug}
             />
@@ -58,22 +59,15 @@ export default function StoryRoll() {
                 frontmatter {
                   title
                   description
-
                   numPages
-
                   document {
-
                     publicURL
-
                   }
-
                   audio {
-
                     publicURL
-
                     base
-
                   }
+                  video
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost

@@ -35,6 +35,7 @@ collections:
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "PDF Document", name: "document", widget: file, required: false }
       - { label: "Audio", name: "audio", widget: file, required: false }
+      - { label: "Video Link", name: "video", widget: string, required: false }
       - { label: "Body (if you don't have a PDF)", name: "body", widget: "markdown", required: false }
   - name: "stories"
     label: "Short Stories"
@@ -58,6 +59,7 @@ collections:
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "PDF Document", name: "document", widget: file, required: false }
       - { label: "Audio", name: "audio", widget: file, required: false }
+      - { label: "Video Link", name: "video", widget: string, required: false }
       - { label: "Body (if you don't have a PDF)", name: "body", widget: "markdown", required: false }
   - name: "poetry"
     label: "Poetry"
@@ -79,6 +81,7 @@ collections:
       - { label: "Featured Image", name: "featuredimage", widget: image }
       - { label: "PDF Document", name: "document", widget: file, required: false }
       - { label: "Audio", name: "audio", widget: file, required: false }
+      - { label: "Video Link", name: "video", widget: string, required: false }
       - { label: "Body (if you don't have a PDF)", name: "body", widget: "markdown", required: false }
   - name: "pages"
     label: "Pages"

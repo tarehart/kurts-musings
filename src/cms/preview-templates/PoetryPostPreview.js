@@ -17,6 +17,7 @@ const PoetryPostPreview = ({ entry, widgetFor }) => {
         description={data.description}
         document={data.document}
         audio={data.audio}
+        video={data.video}
         numWords={numWords}
       />
 

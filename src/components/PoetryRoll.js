@@ -24,6 +24,7 @@ const PoetryRollTemplate = (props) => {
                 date={post.frontmatter.data}
                 document={post.frontmatter.document}
                 audio={post.frontmatter.audio}
+                video={post.frontmatter.video}
                 slug={post.fields.slug}
               />
             </div>
@@ -70,6 +71,7 @@ export default function PoetryRoll() {
                     publicURL
                     base
                   }
+                  video
                   templateKey
                   date(formatString: "MMMM DD, YYYY")
                   featuredpost

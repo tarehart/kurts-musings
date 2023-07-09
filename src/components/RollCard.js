@@ -40,7 +40,7 @@ const ReadButton = (props) => {
 }
 
 const RollCard = (props) => {
-    const { image, title, description, numPages, numWords, document, audio, excerpt, slug } = props;
+    const { image, title, description, numPages, numWords, document, audio, video, excerpt, slug } = props;
 
     const [showAudio, setShowAudio] = useState(false);
 
@@ -90,6 +90,15 @@ const RollCard = (props) => {
                   <span className="icon turn-blue">
                     <img src={mp3} alt="mp3" />
                   </span>
+                  </Link>
+                </div>
+              </div>
+            )}
+            { video && (
+              <div className="field" style={{display: 'inline-flex', marginLeft: '0.75rem'}}>
+                <div className="control">
+                  <Link className="button" to={video} target="_blank">
+                    Watch
                   </Link>
                 </div>
               </div>

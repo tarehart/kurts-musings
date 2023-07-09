@@ -16,6 +16,7 @@ const EssayPostPreview = ({ entry, widgetFor }) => {
         numPages={data.numPages}
         document={data.document}
         audio={data.audio}
+        video={data.video}
         excerpt={data.body?.substring(0, 400)}
       />
 

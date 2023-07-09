@@ -21,6 +21,7 @@ const EssayRollTemplate = (props) => {
               date={post.frontmatter.data}
               document={post.frontmatter.document}
               audio={post.frontmatter.audio}
+              video={post.frontmatter.video}
               excerpt={post.excerpt}
               slug={post.fields.slug}
             />
@@ -69,6 +70,7 @@ export default function EssayRoll() {
                     publicURL
                     base
                   }
+                  video
                   featuredimage {
                     childImageSharp {
                       gatsbyImageData(
