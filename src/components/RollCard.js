@@ -77,10 +77,10 @@ const RollCard = (props) => {
             {numPages ? <>{numPages} pages.</> : null}
             {(!numPages && numWords) ? <>{numWords} words.</> : null}
           </p>
-          <div>
+          <div style={{ display: 'flex', columnGap: '0.75rem', flexWrap: 'wrap' }}>
             <ReadButton document={document} hasBody={hasBody} slug={slug} />
             { audio && (
-              <div className="field has-addons" style={{display: 'inline-flex', marginLeft: '0.75rem'}}>
+              <div className="field has-addons" style={{display: 'inline-flex'}}>
                 <div className="control">
                   <button className="button" onClick={() => { setShowAudio(!showAudio) }}>
                     <span>Listen</span>
@@ -96,7 +96,7 @@ const RollCard = (props) => {
               </div>
             )}
             { video && (
-              <div className="field" style={{display: 'inline-flex', marginLeft: '0.75rem'}}>
+              <div className="field" style={{display: 'inline-flex'}}>
                 <div className="control">
                   <Link className="button" to={video} target="_blank">
                     Watch
