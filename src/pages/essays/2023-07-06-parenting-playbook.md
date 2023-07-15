@@ -5,7 +5,7 @@ author: Kurt Arehart
 year: 2023
 date: 2023-07-06T21:43:42.506Z
 description: Principles from two great books applied.
-numPages: 15
+numPages: 18
 featuredimage: /img/12-37-47 Cheerleader & Clown.jpg
 document: /img/parenting-playbook.pdf
 ---
