@@ -4,10 +4,10 @@ title: Parenting Playbook
 author: Kurt Arehart
 year: 2023
 date: 2023-07-06T21:43:42.506Z
-description: Principles of a great book applied.
+description: Principles from two great books applied.
 numPages: 15
 featuredimage: /img/12-37-47 Cheerleader & Clown.jpg
-document: ""
+document: /img/parenting-playbook.pdf
 ---
 <!--StartFragment-->
 
@@ -298,5 +298,85 @@ Adam stood transfixed for a moment.  This was different.  Adults did not speak
 Kurt had offered Adam some control, some self-determination, if within hard limits acceptable to Kurt.
 
 Adam felt empowered to choose his path, and he chose well.
+
+
+
+- - -
+
+<!--StartFragment-->
+
+**Addendum**
+
+
+
+While still carrying Tyler, Nancy found another book, My First 300 Babies, by Gladys West Hendrick that influenced how she and Kurt approached early-infancy parenting.  Gladys had been a nurse specializing in infant care, and based on her years of experience with over 300 infants she developed her practices.
+
+
+
+For Nancy and Kurt there were two key ideas they put into practice.
+
+
+
+**The Schedule**
+
+
+
+Establishing and sticking to a daily schedule is vital.  Per Hendrick, an infant will do far better, and therefore so will the parents, if a strict daily schedule for eating, awake time and sleep time is established.  Waking in the morning, feedings, naps and finally down for the night.  The child will be far happier with this regularity. 
+
+
+
+But the adult world does not work like that.  What about that invitation to visit another new mom and infant in the mid-morning?  How about that invitation to come to a friend’s place on a Sunday afternoon that leads into dinner?  Can’t that sleep and feeding schedule flex a bit?
+
+
+
+No.  If feedings and naps, and certainly bedtime for the night comes at odd intervals, the infant will be cranky and difficult and the whole household will suffer for it.  Kurt and Nancy found ways to be out with friends while honoring the schedule.  This might mean putting Tyler down for his scheduled nap in his travel crib in a friend’s back bedroom on a Sunday afternoon, or putting him down for the night in the corner of the gym while Kurt and Nancy played volleyball.  The schedule was honored, and Tyler learned to sleep with a bit of noise.  And we all thrived.
+
+
+
+It worked well for both Tyler and Coleman.
+
+
+
+**Learning To Fall Back To Sleep**
+
+
+
+Most new parents, Kurt and Nancy included, would make sure the baby is fed, changed and comfortable, then rock him to sleep, then put him down for the night at the normal bedtime.  But what to do when tiny Tyler awakes one hour later and cries to be picked up?
+
+
+
+Per Hendrick, if you are sure the baby is fed and dry and comfortable, you need to let him cry for up to twenty minutes without coming to pick him up.  This is hard.  Really hard.  You can go have a look to make sure all is well and maybe place a hand on baby’s back briefly to communicate your nearness.
+
+
+
+Every fiber in you wants pick him up and rock him back to sleep.  But if you do this, it may be many months before the baby learns to sleep through the night, if ever.
+
+
+
+If the baby cries beyond twenty minutes, then there is likely real distress or discomfort to be addressed.
+
+
+
+When Tyler was newborn, newly home with Kurt and Nancy, they faced this very scenario, as every parent will.  They believed Tyler to be fed, dry and comfortable.  He had been down for the night for two hours.  And now he had wakened and was crying.
+
+
+
+Kurt and Nancy looked at each other, and committed to this very difficult twenty minute wait.  After an agonizing ten minutes Nancy had a peek to make sure Tyler appeared well and after fifteen minutes Tyler fell back asleep.
+
+
+
+And that was it.  From that point forward, if Tyler woke in the night he did not cry to be picked up.  He just fell back to sleep on his own.  Turns out Tyler was a quick study.  And if he did cry at length, Kurt and Nancy knew there was a problem that needed correcting, like a soiled diaper or a trapped foot or some such.
+
+
+
+And Kurt and Nancy got far better sleep too.  Well rested parents are better parents, so it was a cycle of success in the Arehart home.
+
+
+
+**Note:**  This twenty minute crying test is difficult at first and certainly controversial.  Some may find it a barbaric throwback to harder times.  But it worked for Kurt and Nancy.  And Tyler.  And Coleman.  And they thrived.
+
+
+
+<!--EndFragment-->
 
 <!--EndFragment-->
