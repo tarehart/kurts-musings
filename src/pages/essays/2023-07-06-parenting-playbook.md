@@ -8,6 +8,7 @@ description: Principles from two great books applied.
 numPages: 18
 featuredimage: /img/12-37-47 Cheerleader & Clown.jpg
 document: /img/parenting-playbook.pdf
+audio: /img/parenting-playbook.mp3
 ---
 <!--StartFragment-->
 
