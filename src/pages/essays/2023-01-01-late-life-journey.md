@@ -9,7 +9,7 @@ featuredimage: /img/HWA_Table_edited.jpg
 featuredpost: false
 date: 2023-01-01T15:04:10.000Z
 document: /img/Bob & Helen Arehart - A Late Life Journey.pdf
-audio: /img/a-late-life-journey.mp3
+audio: /img/a-late-life-journey2.mp3
 ---
 Life follows a curve.  If you are lucky, you rise up to reach a peak of freedom and empowerment, and then begins the time of loss.  Bob and Helen Arehart together had such a journey.
 
