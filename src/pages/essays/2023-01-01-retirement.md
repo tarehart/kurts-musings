@@ -28,7 +28,7 @@ In my early retirement travels I have pushed back against this discomfort and re
 
 It certainly helps to have drawn a good hand from the gene pool.  I am blessed with a body that is fundamentally sound, is resistant to disease, responds well to exercise, maintains a good weight with little effort, and is capable of learning complex physical movement and balance.  In the same package I got a brain that can be quick, creative, analytical, capable of learning complex skills with reasonable effort, and, very importantly, wired for empathy.
 
-This is truly a fortunate draw from the deep end of the gene pool.  Even better, I had the fabulous luck to have excellent, thoughtful, nurturant parents who created for me a solid foundation of unconditional love and support from which to launch my life with solid emotional balance.
+This is truly a fortunate draw from the deep end of the gene pool.  Even better, I had the fabulous luck to have excellent, thoughtful, nurturant parents who created for me a sound foundation of unconditional love and support from which to launch my life with solid emotional balance.
 
 And I almost certainly benefited from another form of luck. I imagine this scene playing out over lunch in April of 1977 between my father, R.F. Arehart, Senior Engineer - Relay Division, Philadelphia Electric Company, and Skip Ward, Senior Sales Manager, General Electric - Relay and Switchgear Division:
 
